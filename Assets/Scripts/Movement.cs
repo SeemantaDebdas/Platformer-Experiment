@@ -33,8 +33,6 @@ public class Movement : MonoBehaviour
         ProcessMovementHorizontal();
         ProcessMovementVertical();
 
-
-        Debug.Log(velocityY);
         isGroundedText.text = IsGrounded().ToString();
         jumpPressedText.text = jumpPressed.ToString();
 
