@@ -11,6 +11,8 @@ public class HUDManager : MonoBehaviour
     [SerializeField] GameObject WinScreen;
     [SerializeField] TextMeshProUGUI coinsCollectedText;
 
+    [SerializeField] GameObject GameoverScreen;
+
     private void Awake()
     {
         instance = this;
@@ -20,5 +22,10 @@ public class HUDManager : MonoBehaviour
     {
         coinsCollectedText.text = "Coins Collected: "+GameManager.Instance.TotalCoins.ToString();
         WinScreen.SetActive(true);
+    }
+
+    public void ActivateGameoverScreen()
+    {
+        GameoverScreen.SetActive(true);
     }
 }

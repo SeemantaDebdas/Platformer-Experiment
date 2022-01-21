@@ -23,11 +23,11 @@ public class Projectile : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Enemy")) return;
+        if (other.CompareTag("Enemy") || other.CompareTag("CameraTrigger")) return;
 
         if (other.CompareTag("Player"))
         {
-            //deduct player health
+            other.GetComponent<Health>().DamagePlayer(10);
         }
 
         Destroy(this.gameObject);

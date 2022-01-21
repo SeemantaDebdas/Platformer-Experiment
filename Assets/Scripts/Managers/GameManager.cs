@@ -1,6 +1,8 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -10,6 +12,11 @@ public class GameManager : MonoBehaviour
 
     int totalCoins;
     int collectedCoins;
+
+    public void ProcessGameOver()
+    {
+        HUDManager.Instance.ActivateGameoverScreen();
+    }
 
     public void IncreaseCollectedCoins() => collectedCoins++;
 
@@ -30,5 +37,10 @@ public class GameManager : MonoBehaviour
             //show Win Screen
             HUDManager.Instance.ActivateWinScreen();
         }
+    }
+
+    public void ReloadGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
