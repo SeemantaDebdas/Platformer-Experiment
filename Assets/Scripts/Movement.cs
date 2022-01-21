@@ -14,7 +14,6 @@ public class Movement : MonoBehaviour
     [SerializeField] TextMeshProUGUI isGroundedText;
     [SerializeField] TextMeshProUGUI jumpPressedText;
 
-    Vector3 velocity;
     float velocityY;
     float inputX;
 
@@ -51,6 +50,8 @@ public class Movement : MonoBehaviour
     {
         velocityY += gravity * Time.deltaTime;
 
+        if (velocityY < 0 && IsGrounded())
+            velocityY = -2f;
 
         if (jumpPressed)
         {
