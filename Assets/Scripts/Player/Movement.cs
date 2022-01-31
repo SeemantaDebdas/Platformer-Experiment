@@ -11,19 +11,23 @@ public class Movement : MonoBehaviour
     [SerializeField] float gravity = 9.8f;
     [SerializeField] float groundDetectionDistance;
 
-    [SerializeField] TextMeshProUGUI isGroundedText;
-    [SerializeField] TextMeshProUGUI jumpPressedText;
-
     float velocityY;
     float inputX;
 
     CharacterController controller;
+    Animator anim;
 
+    int HorizontalFloatParameter = Animator.StringToHash("HorizontalSpeed");
+    int VerticalFloatParameter = Animator.StringToHash("VerticalSpeed");
+    int IsJumpParameter = Animator.StringToHash("IsJump");
+    Vector3 direction;
     bool jumpPressed;
+
     // Start is called before the first frame update
     void Awake()
     {
         controller = GetComponent<CharacterController>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -31,17 +35,25 @@ public class Movement : MonoBehaviour
     {
         ProcessInput();
         ProcessMovementHorizontal();
+        ProcessRotation();
         ProcessMovementVertical();
+        ProcessAnimations();
 
-        isGroundedText.text = IsGrounded().ToString();
-        jumpPressedText.text = jumpPressed.ToString();
 
         Debug.DrawRay(transform.position, Vector3.down * groundDetectionDistance, Color.red);
     }
 
+    private void ProcessInput()
+    {
+        inputX = Input.GetAxisRaw("Horizontal");
+        if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
+            jumpPressed = true;
+    }
+
     private void ProcessMovementHorizontal()
     {
-        controller.Move(Vector3.right * inputX * movementForce * Time.deltaTime);
+        direction = Vector3.right * inputX;
+        controller.Move(direction * movementForce * Time.deltaTime);
     }
 
     void ProcessMovementVertical()
@@ -60,11 +72,11 @@ public class Movement : MonoBehaviour
         controller.Move(Vector3.up * velocityY * Time.deltaTime);
     }
 
-    private void ProcessInput()
+    void ProcessRotation()
     {
-        inputX= Input.GetAxisRaw("Horizontal");
-        if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
-            jumpPressed = true;
+        Quaternion targetRotation = Quaternion.FromToRotation(Vector3.forward, direction.normalized);
+        if(direction.magnitude>0)
+            transform.rotation = targetRotation;
     }
 
     bool IsGrounded()
@@ -74,4 +86,13 @@ public class Movement : MonoBehaviour
         return false;
     }
 
+    void ProcessAnimations()
+    {
+        if (inputX != 0)
+            anim.SetFloat(HorizontalFloatParameter, movementForce);
+        else
+            anim.SetFloat(HorizontalFloatParameter, 0);
+
+        anim.SetBool(IsJumpParameter, !IsGrounded());
+    }
 }

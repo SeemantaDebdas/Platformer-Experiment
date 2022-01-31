@@ -4,6 +4,12 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
+    [SerializeField] float rotationSpeed = 10f;
+    private void Update()
+    {
+        transform.Rotate(Vector3.up * rotationSpeed * Time.deltaTime); 
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         //later implement object pooling
