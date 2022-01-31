@@ -10,8 +10,10 @@ public class HUDManager : MonoBehaviour
 
     [SerializeField] GameObject WinScreen;
     [SerializeField] TextMeshProUGUI coinsCollectedText;
+    [Header("Instruction Panel")]
+    [SerializeField] GameObject instructionPanel;
 
-    [SerializeField] GameObject GameoverScreen;
+    [SerializeField] GameObject gameOverScreen;
 
     private void Awake()
     {
@@ -24,8 +26,8 @@ public class HUDManager : MonoBehaviour
         WinScreen.SetActive(true);
     }
 
-    public void ActivateGameoverScreen()
-    {
-        GameoverScreen.SetActive(true);
-    }
+    public void ActivateGameoverScreen()=> gameOverScreen.SetActive(true);
+
+    public void ActivateInstructionPanel() => instructionPanel.SetActive(true);
+
 }

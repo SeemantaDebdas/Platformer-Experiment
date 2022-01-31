@@ -1,0 +1,1907 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1466; Version 2009; 64bit' Language: 'en' Physical Memory: 7568 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Game Development/Respository/Unity 3D/Own/Platformer Experiment
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+57161
+Successfully changed project path to: D:/Game Development/Respository/Unity 3D/Own/Platformer Experiment
+D:/Game Development/Respository/Unity 3D/Own/Platformer Experiment
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 276.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Game Development/Respository/Unity 3D/Own/Platformer Experiment/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   
+    VRAM:     3784 MB
+    Driver:   30.0.13023.1012
+Initialize mono
+Mono path[0] = 'D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004135 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.162 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001174 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.411 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.23 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1544 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.4 MB.
+System memory in use after: 78.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 2.331100 ms (FindLiveObjects: 0.357700 ms CreateObjectMapping: 0.049600 ms MarkObjects: 1.792200 ms  DeleteObjects: 0.129700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCastleDoorL.fbx
+  artifactKey: Guid(e6fbed5d470b480408c5d2f5c87db564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCastleDoorL.fbx using Guid(e6fbed5d470b480408c5d2f5c87db564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb659dc2737e1209402d1ef6dc17a2e') in 0.756191 seconds
+  Import took 0.763804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000948 seconds.
+  path: Assets/AurynSky/Forest Pack/Materials/Water.mat
+  artifactKey: Guid(db6fe5b017a481740b6a70f2ea5860d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Materials/Water.mat using Guid(db6fe5b017a481740b6a70f2ea5860d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666a02c078a55392e41a990c03b092de') in 0.094300 seconds
+  Import took 0.106121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000731 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestCrate.prefab
+  artifactKey: Guid(1b5d1a6deebd81e4bba2448d18378844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestCrate.prefab using Guid(1b5d1a6deebd81e4bba2448d18378844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0308b38f332d631951f89acb40d2bf94') in 0.098101 seconds
+  Import took 0.116031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/WaterFall.prefab
+  artifactKey: Guid(a27d6e7d56bdc84479be345a168e6c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/WaterFall.prefab using Guid(a27d6e7d56bdc84479be345a168e6c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4eebc42ae2a4c78829ec359cb1aff08') in 0.049952 seconds
+  Import took 0.064065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCrate.fbx
+  artifactKey: Guid(a1f37417ef7b6c14cbbc17f7295996c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCrate.fbx using Guid(a1f37417ef7b6c14cbbc17f7295996c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72be82dcb5ceece36c53c1aab0cf5faf') in 0.159528 seconds
+  Import took 0.176648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000796 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestGroundDirt.fbx
+  artifactKey: Guid(dac1f6a026468af46b8928893e3eea27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestGroundDirt.fbx using Guid(dac1f6a026468af46b8928893e3eea27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e8730758aa393db260427ef4082fa4') in 0.138251 seconds
+  Import took 0.159961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/WaterQuadPixies.prefab
+  artifactKey: Guid(01551af6657ebea4ba670ee7b8c26600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/WaterQuadPixies.prefab using Guid(01551af6657ebea4ba670ee7b8c26600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d0f1040138fef98ebf7c19f3d52a366') in 0.084876 seconds
+  Import took 0.118164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000732 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestBridgeRegular.fbx
+  artifactKey: Guid(27f378e54c3d81f44b2a8420b6896d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestBridgeRegular.fbx using Guid(27f378e54c3d81f44b2a8420b6896d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad63e29bf26380e3e489b869c449a6d') in 0.132289 seconds
+  Import took 0.139414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000681 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCatapultBase.fbx
+  artifactKey: Guid(e661daaaebf587c4cae7c914305ccc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCatapultBase.fbx using Guid(e661daaaebf587c4cae7c914305ccc2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12943e4891704b9e02231f1cce62fbb') in 0.092035 seconds
+  Import took 0.105932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001466 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestBridgeWide.prefab
+  artifactKey: Guid(ba7e7b47e14ac404fbe09194158fbf80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestBridgeWide.prefab using Guid(ba7e7b47e14ac404fbe09194158fbf80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7ed8878e46fc5e53c92988df2e4165') in 0.063782 seconds
+  Import took 0.091467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000866 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/WaterPixiesSolo.prefab
+  artifactKey: Guid(4d1a1b8720d1bc3438a87ab19ed6593a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/WaterPixiesSolo.prefab using Guid(4d1a1b8720d1bc3438a87ab19ed6593a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f93a1c192db97e0717fe876bdd8ad8c') in 0.035251 seconds
+  Import took 0.043699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/WaterQuadSolo.prefab
+  artifactKey: Guid(45a2654ed7e50b945bbbf5ab0a76e645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/WaterQuadSolo.prefab using Guid(45a2654ed7e50b945bbbf5ab0a76e645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d4c240137163491cae98dc5eea62c0') in 0.197678 seconds
+  Import took 0.232022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000900 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestLadderExtra.fbx
+  artifactKey: Guid(d3e0e0f50a8a0244682ed6295d472f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestLadderExtra.fbx using Guid(d3e0e0f50a8a0244682ed6295d472f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a6e0a0218bc71f2c5f83201e553983') in 0.194314 seconds
+  Import took 0.207032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000640 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestTreeDTall.prefab
+  artifactKey: Guid(eb322b3f7ad50984197dced1b53b11ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestTreeDTall.prefab using Guid(eb322b3f7ad50984197dced1b53b11ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a9d022b8991d31026ac1e719a51983') in 0.051680 seconds
+  Import took 0.062411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000805 seconds.
+  path: Assets/AurynSky/Forest Pack/Materials/ColorPaletteBLUE.mat
+  artifactKey: Guid(e77b003cd8771304abfc74dd93c9f934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Materials/ColorPaletteBLUE.mat using Guid(e77b003cd8771304abfc74dd93c9f934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb5ef386ed68c33a83b5543f786ae90') in 0.089535 seconds
+  Import took 0.104441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/AurynSky/Forest Pack/Materials/ColorPaletteRED.mat
+  artifactKey: Guid(4484256e7ebbe4a4eab77924649bab61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Materials/ColorPaletteRED.mat using Guid(4484256e7ebbe4a4eab77924649bab61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a909ec3f26515d94226bb13dc0d017c') in 0.063042 seconds
+  Import took 0.070209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestTreeAppleTall.fbx
+  artifactKey: Guid(74836e1c1b626dc41a8fb4207f7026b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestTreeAppleTall.fbx using Guid(74836e1c1b626dc41a8fb4207f7026b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b79f2f3e12c5efa66be94424a18caef') in 0.068212 seconds
+  Import took 0.075095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000657 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestTower.fbx
+  artifactKey: Guid(31e91474d696aac42a8e41c3cba06388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestTower.fbx using Guid(31e91474d696aac42a8e41c3cba06388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790ac4b62e382fe02314f15efa70e766') in 0.084901 seconds
+  Import took 0.091597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestBridgeWide.fbx
+  artifactKey: Guid(fe63f0532f7ca0b47b859b94db3dff06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestBridgeWide.fbx using Guid(fe63f0532f7ca0b47b859b94db3dff06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ccf76f004145ea4c291c89850633f96') in 0.063773 seconds
+  Import took 0.088778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001232 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCastleDoorR.fbx
+  artifactKey: Guid(9093fea64d769c14686f81a998814598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCastleDoorR.fbx using Guid(9093fea64d769c14686f81a998814598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde5608ce0da5ee37b61d1e81701ff20') in 0.067915 seconds
+  Import took 0.073924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestChestTop.fbx
+  artifactKey: Guid(55df886252da3624fbe98bce822145ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestChestTop.fbx using Guid(55df886252da3624fbe98bce822145ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a5f1028c1f8b69f020e3a7cd235c705') in 0.074410 seconds
+  Import took 0.083688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001061 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCatapultWheel.fbx
+  artifactKey: Guid(3d789200e36f37548bdc5333aed7f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCatapultWheel.fbx using Guid(3d789200e36f37548bdc5333aed7f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063548ef6ca7f2c2587ffacee268890d') in 0.072768 seconds
+  Import took 0.083277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red
+  artifactKey: Guid(39e64b6261cd6584dac8808c9e717191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red using Guid(39e64b6261cd6584dac8808c9e717191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cafd5479c00bf8f0064b27510211d9a2') in 0.024182 seconds
+  Import took 0.029563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestTreePineShort.fbx
+  artifactKey: Guid(54e159d3356cea14996fb2dc32d85269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestTreePineShort.fbx using Guid(54e159d3356cea14996fb2dc32d85269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d062ec9230f3473c02edea7d14faf13') in 0.075122 seconds
+  Import took 0.082823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011157 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestGrass02.fbx
+  artifactKey: Guid(b1243bcbb8ed74e4ab8fd4d283783ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestGrass02.fbx using Guid(b1243bcbb8ed74e4ab8fd4d283783ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e004eed13ea53410141415bf4f978ad8') in 0.064843 seconds
+  Import took 0.077029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/RiverQuadSolo.prefab
+  artifactKey: Guid(358cf835a1cf6dc44be7c394778cb1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/RiverQuadSolo.prefab using Guid(358cf835a1cf6dc44be7c394778cb1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b42bd81ab084bae6fd152ba291da001') in 0.042531 seconds
+  Import took 0.062575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCastleWindow.fbx
+  artifactKey: Guid(1eab687d6dbcf7847ab55b00b3c9c91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCastleWindow.fbx using Guid(1eab687d6dbcf7847ab55b00b3c9c91b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd519405311e1ec9ac89d58a3258c254a') in 0.087392 seconds
+  Import took 0.105204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestTreePineTall.fbx
+  artifactKey: Guid(6819aaac952b96048b10875168436abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestTreePineTall.fbx using Guid(6819aaac952b96048b10875168436abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e026c94129c24bfc0d13ac1f1bf38209') in 0.075836 seconds
+  Import took 0.085884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000912 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCatapultArm.fbx
+  artifactKey: Guid(40ae94ff29e3cc14684b05ba0fd90f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCatapultArm.fbx using Guid(40ae94ff29e3cc14684b05ba0fd90f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0715e66229b9780a04c289d0a8b24e4') in 0.123309 seconds
+  Import took 0.134678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCannonBall.fbx
+  artifactKey: Guid(18a61d73650d23046b60f8a548888c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCannonBall.fbx using Guid(18a61d73650d23046b60f8a548888c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b12085df4915de1bde5197b07058bb6d') in 0.080479 seconds
+  Import took 0.099991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/AurynSky/Forest Pack/Materials/CubeParticles.mat
+  artifactKey: Guid(55d3cd30aa20d634f8c2388d479742d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Materials/CubeParticles.mat using Guid(55d3cd30aa20d634f8c2388d479742d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03087c1029d0249038cf332ec569997') in 0.040876 seconds
+  Import took 0.048771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000650 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestTreeDShort.fbx
+  artifactKey: Guid(7f45a4e3a86ce4b4391131e440bf9e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestTreeDShort.fbx using Guid(7f45a4e3a86ce4b4391131e440bf9e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b72fb8621a669da7f8bedb59d4491bb') in 0.076568 seconds
+  Import took 0.084314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001223 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestGrass01.fbx
+  artifactKey: Guid(dc09b7fdd0db0bd499b52f8862b84c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestGrass01.fbx using Guid(dc09b7fdd0db0bd499b52f8862b84c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb68d8ba4708b8ec15a02df9096edad') in 0.073504 seconds
+  Import took 0.085113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCastle.fbx
+  artifactKey: Guid(758bef35d3e7c74459b15b2b738f7931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCastle.fbx using Guid(758bef35d3e7c74459b15b2b738f7931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '376a5f8358e9fff4b7f5bacdc70d805b') in 0.082629 seconds
+  Import took 0.095805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001043 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestLadder.fbx
+  artifactKey: Guid(063e70de915dd8843afde64c2c744ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestLadder.fbx using Guid(063e70de915dd8843afde64c2c744ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd1562c3dbd1086acdc9dd9361eb572') in 0.074762 seconds
+  Import took 0.083098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestTreeAppleShort.prefab
+  artifactKey: Guid(f4f82206765cef54ca8f19ce34136e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestTreeAppleShort.prefab using Guid(f4f82206765cef54ca8f19ce34136e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc4748c8bc917d7f074c312fac07da6') in 0.062185 seconds
+  Import took 0.069186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/AurynSky/Forest Pack/Materials/ShowCase.mat
+  artifactKey: Guid(ce6846b6b5ba77f4e83630cc67fcd60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Materials/ShowCase.mat using Guid(ce6846b6b5ba77f4e83630cc67fcd60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93581a7ac92d49944a5d8f47a0bdce69') in 0.078495 seconds
+  Import took 0.095838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/AurynSky/Forest Pack/Materials/WaterTile.mat
+  artifactKey: Guid(3f14906e08078944dab937a623780258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Materials/WaterTile.mat using Guid(3f14906e08078944dab937a623780258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599c9690f4d63a9450476bc52a74c8e2') in 0.061901 seconds
+  Import took 0.076235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000874 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestLadder.prefab
+  artifactKey: Guid(8d102e899c856934a9f58af9c7508d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestLadder.prefab using Guid(8d102e899c856934a9f58af9c7508d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc77073f0308f13559fc9ff51223741c') in 0.044108 seconds
+  Import took 0.053886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/AurynSky/Forest Pack/Materials/ColorPaletteNormal.mat
+  artifactKey: Guid(f731a2ae89bef7a47a008811dfbd4680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Materials/ColorPaletteNormal.mat using Guid(f731a2ae89bef7a47a008811dfbd4680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40adbca017cafba7975464284837f3b4') in 0.052695 seconds
+  Import took 0.060427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000797 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestBlock01.prefab
+  artifactKey: Guid(89843090f5c38c24c9500fe9490ba5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestBlock01.prefab using Guid(89843090f5c38c24c9500fe9490ba5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '389caa6b00ef533b6115c664c4da8c0e') in 0.053860 seconds
+  Import took 0.067586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000688 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab
+  artifactKey: Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab using Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b45cf2ec86d3734e50eef8772e8295') in 0.064828 seconds
+  Import took 0.072004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGround02.prefab
+  artifactKey: Guid(5cbae0602ce9acf41a98fda3a353569a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGround02.prefab using Guid(5cbae0602ce9acf41a98fda3a353569a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '378ec9bc10c059087ba29b0c9f0f2bb1') in 0.054886 seconds
+  Import took 0.062176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestTreeDTall.fbx
+  artifactKey: Guid(a2c5addf9682ab24d8a7163ed106e4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestTreeDTall.fbx using Guid(a2c5addf9682ab24d8a7163ed106e4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ff91f7b4f81f9f65b3483254f1c4a28') in 0.062687 seconds
+  Import took 0.081312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000694 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestBlock02.prefab
+  artifactKey: Guid(3f28852fcfaa2fc4a9956ddd15ba61f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestBlock02.prefab using Guid(3f28852fcfaa2fc4a9956ddd15ba61f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053552ce225d384b305042591333f61a') in 0.055885 seconds
+  Import took 0.068686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestBridgeRegular.prefab
+  artifactKey: Guid(38fa18ea33367784c891567389fdfb7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestBridgeRegular.prefab using Guid(38fa18ea33367784c891567389fdfb7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82258ca86d5267f774b0294c4feff354') in 0.070385 seconds
+  Import took 0.100040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestTreeAppleTall.prefab
+  artifactKey: Guid(7747cd3716304194fb26aa4e29900eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestTreeAppleTall.prefab using Guid(7747cd3716304194fb26aa4e29900eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab40042a6233af37851c15179f757a7e') in 0.071791 seconds
+  Import took 0.089774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestFlag.fbx
+  artifactKey: Guid(c2384f4f142bbcc4a95566c55927a024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestFlag.fbx using Guid(c2384f4f142bbcc4a95566c55927a024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6b4b51058744293b68ee6ceba1df024') in 0.223156 seconds
+  Import took 0.230051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestGround02.fbx
+  artifactKey: Guid(caca2dfcd7da619408439605ff0667a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestGround02.fbx using Guid(caca2dfcd7da619408439605ff0667a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4646e89e701c403e7842f5dcb99131d') in 0.073843 seconds
+  Import took 0.084596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGrass02.prefab
+  artifactKey: Guid(4c9f6adf60a275840b716082e3482212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGrass02.prefab using Guid(4c9f6adf60a275840b716082e3482212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7e2d4448ea03d841766897241beb8e') in 0.068178 seconds
+  Import took 0.077120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineShort.prefab
+  artifactKey: Guid(45fe3ec28eac2064d985117cf812ef9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineShort.prefab using Guid(45fe3ec28eac2064d985117cf812ef9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa1af5a62e3769e0efa73aef6ce1547') in 0.041415 seconds
+  Import took 0.051498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Fire.prefab
+  artifactKey: Guid(f584b4d5076829f4799f9d4dcf6de929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Fire.prefab using Guid(f584b4d5076829f4799f9d4dcf6de929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '906b30300eff2ac5fce477d79ea8f1c6') in 0.047274 seconds
+  Import took 0.063754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000708 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGround01.prefab
+  artifactKey: Guid(1d9cc67243350f643b8c562ed0503c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGround01.prefab using Guid(1d9cc67243350f643b8c562ed0503c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e532d57c6a280e6059409287af6bd58') in 0.093802 seconds
+  Import took 0.109107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000850 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestCoin.fbx
+  artifactKey: Guid(200be9953d192cd48a8b41a5db3fd1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestCoin.fbx using Guid(200be9953d192cd48a8b41a5db3fd1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e382c0e7797b7e78e5152b2cde1b842') in 0.081296 seconds
+  Import took 0.090682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestGround01.fbx
+  artifactKey: Guid(f9fc7ec022f09a6418b1b6f97f0c887b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestGround01.fbx using Guid(f9fc7ec022f09a6418b1b6f97f0c887b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb833f27da166a939419057a998aebd5') in 0.062703 seconds
+  Import took 0.074569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000625 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestBarrel.prefab
+  artifactKey: Guid(31d3a77f906791342bc79acdc84f5218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestBarrel.prefab using Guid(31d3a77f906791342bc79acdc84f5218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578ba7eff8bf60b404f07db577381b40') in 0.047022 seconds
+  Import took 0.055576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGrass01.prefab
+  artifactKey: Guid(6c919ec1c1e88a94c95afc28b198b9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGrass01.prefab using Guid(6c919ec1c1e88a94c95afc28b198b9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bba584afeab06fbf17363befa956f9c') in 0.045279 seconds
+  Import took 0.053503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000979 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/RiverQuadCombined.prefab
+  artifactKey: Guid(7fe364418169a2e4f9dd663ecb4d5311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/RiverQuadCombined.prefab using Guid(7fe364418169a2e4f9dd663ecb4d5311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656e41891a074a4d92e00d8512d374c4') in 0.047729 seconds
+  Import took 0.057899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestBlock01.fbx
+  artifactKey: Guid(8f059788f09129548819124918076d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestBlock01.fbx using Guid(8f059788f09129548819124918076d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee16761d66239b222e63786b7c25ed1') in 0.077611 seconds
+  Import took 0.086576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000920 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Smoke.prefab
+  artifactKey: Guid(bc42e33df8ad9d14cba646735d12f85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Smoke.prefab using Guid(bc42e33df8ad9d14cba646735d12f85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f79650bd56cb8dd78f92cccba38463') in 0.020096 seconds
+  Import took 0.030679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000933 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestChestBottom.fbx
+  artifactKey: Guid(0e5f540077da33c4eab7f0f7f1121747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestChestBottom.fbx using Guid(0e5f540077da33c4eab7f0f7f1121747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62c17f1b8bdcb96f0166252cb9a5e19') in 0.101379 seconds
+  Import took 0.124233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001469 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue
+  artifactKey: Guid(e627b37cf3694c647b67e610419bc112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue using Guid(e627b37cf3694c647b67e610419bc112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27aa4fe6336b4e555491f31f1586e2b2') in 0.021267 seconds
+  Import took 0.050787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000690 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestBlock02.fbx
+  artifactKey: Guid(481b9e0107aab3041b49f72c38151e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestBlock02.fbx using Guid(481b9e0107aab3041b49f72c38151e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cedfa21428c8e9861315be045cf832d') in 0.067489 seconds
+  Import took 0.074987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestTreeDShort.prefab
+  artifactKey: Guid(018e38b65bc9fb048a9c4271cdad70c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestTreeDShort.prefab using Guid(018e38b65bc9fb048a9c4271cdad70c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46cc8f37e80a4f4eeaa36564f8cce10') in 0.063552 seconds
+  Import took 0.073720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000710 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineShort2.prefab
+  artifactKey: Guid(7ad57e94574375240b181f8584be81c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineShort2.prefab using Guid(7ad57e94574375240b181f8584be81c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de3bb7b2df86396d7e2e6c6340bfc48') in 0.057363 seconds
+  Import took 0.073313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002903 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestBrazzier.fbx
+  artifactKey: Guid(d6810d6654be8544f9195fa0f6d1121a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestBrazzier.fbx using Guid(d6810d6654be8544f9195fa0f6d1121a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c2dc2ef49c72813987f76718f97a6e') in 0.083716 seconds
+  Import took 0.096421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001708 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineShort2.prefab
+  artifactKey: Guid(7ad57e94574375240b181f8584be81c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineShort2.prefab using Guid(7ad57e94574375240b181f8584be81c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de3bb7b2df86396d7e2e6c6340bfc48') in 0.032059 seconds
+  Import took 0.042433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestCastleWindow.prefab
+  artifactKey: Guid(fb44b6ca36ace2c46b5dd7d4bf32e371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestCastleWindow.prefab using Guid(fb44b6ca36ace2c46b5dd7d4bf32e371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ece34e2cfb4d6979da89efe80baabbd') in 0.042815 seconds
+  Import took 0.050203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000667 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestTreeAppleShort.fbx
+  artifactKey: Guid(55d234882e9a60747b3208b956d8244b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestTreeAppleShort.fbx using Guid(55d234882e9a60747b3208b956d8244b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b538abbd1b09657a2558a78c259a18b0') in 0.066536 seconds
+  Import took 0.085506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineTall2.prefab
+  artifactKey: Guid(bb8b831afcc06c64f9df984b2ccb8642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineTall2.prefab using Guid(bb8b831afcc06c64f9df984b2ccb8642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d71b8c47060f385cfdbad5c7d5eabe6') in 0.052844 seconds
+  Import took 0.063440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestBarrel.fbx
+  artifactKey: Guid(0e448df1bb3fe6d44ae7119bf0d484aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestBarrel.fbx using Guid(0e448df1bb3fe6d44ae7119bf0d484aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98685058582c758abdf6aaa0a94e6291') in 0.064085 seconds
+  Import took 0.070679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000726 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineTall.prefab
+  artifactKey: Guid(e150e8680dcf9784a89843e55668ad0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestTreePineTall.prefab using Guid(e150e8680dcf9784a89843e55668ad0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a35c8b4a7c3210f583123e11f12f7a') in 0.039054 seconds
+  Import took 0.051513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001181 seconds.
+  path: Assets/AurynSky/Forest Pack/Models/ForestBanner.fbx
+  artifactKey: Guid(73866947821a91c4d9d1b41582ae7767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Models/ForestBanner.fbx using Guid(73866947821a91c4d9d1b41582ae7767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd998ee07395c3788385c4bc9939273e0') in 0.098734 seconds
+  Import took 0.112758 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.322 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2037.
+Total: 6.887700 ms (FindLiveObjects: 1.113700 ms CreateObjectMapping: 0.185700 ms MarkObjects: 5.454300 ms  DeleteObjects: 0.131100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 213.252156 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/WaterQuadPixies.prefab
+  artifactKey: Guid(01551af6657ebea4ba670ee7b8c26600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/WaterQuadPixies.prefab using Guid(01551af6657ebea4ba670ee7b8c26600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54302e4fa95cd7da0b3b83cdab19f8c1') in 0.229079 seconds
+  Import took 0.236407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/WaterQuadSolo.prefab
+  artifactKey: Guid(45a2654ed7e50b945bbbf5ab0a76e645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/WaterQuadSolo.prefab using Guid(45a2654ed7e50b945bbbf5ab0a76e645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '848660aa501f75c92aa14eb7e73ecc8e') in 0.037196 seconds
+  Import took 0.052039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/RiverQuadSolo.prefab
+  artifactKey: Guid(358cf835a1cf6dc44be7c394778cb1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/RiverQuadSolo.prefab using Guid(358cf835a1cf6dc44be7c394778cb1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301a3312b2d0f88030e01511a02f0746') in 0.047356 seconds
+  Import took 0.058258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000711 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/RiverQuadCombined.prefab
+  artifactKey: Guid(7fe364418169a2e4f9dd663ecb4d5311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/RiverQuadCombined.prefab using Guid(7fe364418169a2e4f9dd663ecb4d5311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15aece7473a638b03794c82d8fc01fbe') in 0.046596 seconds
+  Import took 0.058011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 183.002198 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBanner_Blue.prefab
+  artifactKey: Guid(0073cc7a3535b5648b67fc6df3289f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBanner_Blue.prefab using Guid(0073cc7a3535b5648b67fc6df3289f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5c7b75f4bb3ab7370721d31de71db9') in 0.138177 seconds
+  Import took 0.145670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000838 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastle_Blue.prefab
+  artifactKey: Guid(72b5f3ccc49ab5c4fa326915f1aabbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastle_Blue.prefab using Guid(72b5f3ccc49ab5c4fa326915f1aabbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7928f9c540917f328a3163b9efb38721') in 0.102840 seconds
+  Import took 0.112227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCatapult_Blue.prefab
+  artifactKey: Guid(43739d3c57ae2ba4cbe919f44dba1d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCatapult_Blue.prefab using Guid(43739d3c57ae2ba4cbe919f44dba1d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7468a5c1d38b5795058aa724ec83dcef') in 0.096033 seconds
+  Import took 0.099735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestTower_Blue.prefab
+  artifactKey: Guid(1cace56ba420dd64c9171c422c8e9aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestTower_Blue.prefab using Guid(1cace56ba420dd64c9171c422c8e9aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd0a85b9cf42e0ffb130c37ddcdfe01e') in 0.066844 seconds
+  Import took 0.085531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e25af5606bcbaf182873988127d8ce') in 0.048853 seconds
+  Import took 0.054608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorL_Blue.prefab
+  artifactKey: Guid(dcbdac72f171da241abd88df31a61142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorL_Blue.prefab using Guid(dcbdac72f171da241abd88df31a61142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '921b15d8f312057188126c47e4e7155b') in 0.069124 seconds
+  Import took 0.079632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorR_Blue.prefab
+  artifactKey: Guid(5032a611cb4fea140b303ed588caeb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorR_Blue.prefab using Guid(5032a611cb4fea140b303ed588caeb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b73c488dee718c503b8647b3c9b1e2c') in 0.089441 seconds
+  Import took 0.096257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestFlag_Blue.prefab
+  artifactKey: Guid(75836cac8af52414c85343289a17535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestFlag_Blue.prefab using Guid(75836cac8af52414c85343289a17535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5bfc6633b71e059077aa1eba44eaa54') in 0.029115 seconds
+  Import took 0.048668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086241 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorR_Blue.prefab
+  artifactKey: Guid(5032a611cb4fea140b303ed588caeb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestCastleDoorR_Blue.prefab using Guid(5032a611cb4fea140b303ed588caeb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b73c488dee718c503b8647b3c9b1e2c') in 0.027417 seconds
+  Import took 0.036758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.164813 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBanner_Red.prefab
+  artifactKey: Guid(6ed1034f9492a344ebd1650ecbc20030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBanner_Red.prefab using Guid(6ed1034f9492a344ebd1650ecbc20030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e991923c50150955371ec655577f375') in 0.043906 seconds
+  Import took 0.051185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCastleDoorL_Red.prefab
+  artifactKey: Guid(c44928e7737eb974695c038f3bff9fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCastleDoorL_Red.prefab using Guid(c44928e7737eb974695c038f3bff9fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d6b9ccf4ff16596d4321f1d535d86e') in 0.054206 seconds
+  Import took 0.059994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc7cddd79d94ec2a96522130b6a27e60') in 0.039667 seconds
+  Import took 0.048050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000790 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCatapult_Red.prefab
+  artifactKey: Guid(1c646272db9f13f40a1cc8d87b080552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCatapult_Red.prefab using Guid(1c646272db9f13f40a1cc8d87b080552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '617aa5ee06538b06c2c8c73b1976d805') in 0.060125 seconds
+  Import took 0.072588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000580 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestFlag_Red.prefab
+  artifactKey: Guid(86646208869fa9149bdeb0379efee8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestFlag_Red.prefab using Guid(86646208869fa9149bdeb0379efee8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0bd213232b4a5decb978c45a6a97e9d') in 0.044838 seconds
+  Import took 0.064791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCastle_Red.prefab
+  artifactKey: Guid(fb6e45a6010fdae4b91b4ccbac21425e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCastle_Red.prefab using Guid(fb6e45a6010fdae4b91b4ccbac21425e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2f78ab5971ee8a1ad461bc028dbf77') in 0.065608 seconds
+  Import took 0.075739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000723 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestTower_Red.prefab
+  artifactKey: Guid(e7775214e5f7b1f469df26ce7b30e009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestTower_Red.prefab using Guid(e7775214e5f7b1f469df26ce7b30e009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b69d6005c4acba22bbf0b49fef4fa3') in 0.049309 seconds
+  Import took 0.061509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCastleDoorR_Red.prefab
+  artifactKey: Guid(8460a569480840d449cb9dd635c1b06c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestCastleDoorR_Red.prefab using Guid(8460a569480840d449cb9dd635c1b06c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7a749eef1d65245c67d867f44931f8') in 0.037542 seconds
+  Import took 0.043719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042397 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestTower_Red.prefab
+  artifactKey: Guid(e7775214e5f7b1f469df26ce7b30e009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestTower_Red.prefab using Guid(e7775214e5f7b1f469df26ce7b30e009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b69d6005c4acba22bbf0b49fef4fa3') in 0.044534 seconds
+  Import took 0.053457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 368.297868 seconds.
+  path: Assets/AurynSky/Forest Pack/Textures/ColorPaletteBLUE.png
+  artifactKey: Guid(d5fb391f53f55904c8e59e6670523ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Textures/ColorPaletteBLUE.png using Guid(d5fb391f53f55904c8e59e6670523ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5404f088c3c042b378c2185f09cf80a7') in 0.068895 seconds
+  Import took 0.073134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/AurynSky/Forest Pack/Textures/Water.psd
+  artifactKey: Guid(25315fb78afed0e4b9a0e1681097767f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Textures/Water.psd using Guid(25315fb78afed0e4b9a0e1681097767f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f3f6ee824e04ca49e090c5d4d6e7dd4') in 0.102252 seconds
+  Import took 0.111407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/AurynSky/Forest Pack/Textures/ColorPaletteNormal.png
+  artifactKey: Guid(5d607b30e410f964a9389dfbb7223cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Textures/ColorPaletteNormal.png using Guid(5d607b30e410f964a9389dfbb7223cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff1c78500fdf7249e150a7929a15ce4') in 0.037188 seconds
+  Import took 0.047772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001398 seconds.
+  path: Assets/AurynSky/Forest Pack/Textures/CubeParticle.psd
+  artifactKey: Guid(8ecfe72d7db2e8c449fe684f88ffe010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Textures/CubeParticle.psd using Guid(8ecfe72d7db2e8c449fe684f88ffe010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e54c30ea9ea8682402e78fb5eaa99c') in 0.037443 seconds
+  Import took 0.043674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/AurynSky/Forest Pack/Textures/ColorPaletteRed.png
+  artifactKey: Guid(5c87e1c6b6eff8b4abe9ea58df2b3b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Textures/ColorPaletteRed.png using Guid(5c87e1c6b6eff8b4abe9ea58df2b3b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b1198c497078e2acef5b855fb8241c8') in 0.043733 seconds
+  Import took 0.051804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1846.632903 seconds.
+  path: Assets/Models
+  artifactKey: Guid(c616c61d2847a5340ae842aa42c3e953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(c616c61d2847a5340ae842aa42c3e953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d9599a8c712914ab070beefac56d4b5') in 0.034480 seconds
+  Import took 0.038976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 343.469016 seconds.
+  path: Assets/AurynSky/Forest Pack/Animation/Flag.controller
+  artifactKey: Guid(6f4ceaf0efe7bdc42a298306d8eaca62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Animation/Flag.controller using Guid(6f4ceaf0efe7bdc42a298306d8eaca62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ca83f7d4e1cea5a2a8d31592809cd0') in 0.049273 seconds
+  Import took 0.057146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.910532 seconds.
+  path: Assets/AurynSky/Forest Pack/Animation/ForestChestTop.controller
+  artifactKey: Guid(cc626abef6aa2ce4590462eff0e54571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Animation/ForestChestTop.controller using Guid(cc626abef6aa2ce4590462eff0e54571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d0a013c07678d482b7499d7c700d92') in 0.017076 seconds
+  Import took 0.028403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 279.729515 seconds.
+  path: Assets/AurynSky/Forest Pack/Animation/ChestOpen.anim
+  artifactKey: Guid(071727a8ddbbb904b839d4969b7d62b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Animation/ChestOpen.anim using Guid(071727a8ddbbb904b839d4969b7d62b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb83faa677edb055641bbfb14d34e7c') in 0.030062 seconds
+  Import took 0.033591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040453 seconds.
+  path: Assets/AurynSky/Forest Pack/Animation/ChestOpen.anim
+  artifactKey: Guid(071727a8ddbbb904b839d4969b7d62b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Animation/ChestOpen.anim using Guid(071727a8ddbbb904b839d4969b7d62b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb83faa677edb055641bbfb14d34e7c') in 0.007101 seconds
+  Import took 0.012828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.413051 seconds.
+  path: Assets/AurynSky/Forest Pack/Scripts/Rotator.cs
+  artifactKey: Guid(e3d1c710b96cf434f9d0cfd5d0cad307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Scripts/Rotator.cs using Guid(e3d1c710b96cf434f9d0cfd5d0cad307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e017221bc8bc7c920253b171ba621587') in 0.029393 seconds
+  Import took 0.036511 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.051739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.837 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2044.
+Total: 7.277200 ms (FindLiveObjects: 0.812800 ms CreateObjectMapping: 0.245500 ms MarkObjects: 5.942000 ms  DeleteObjects: 0.272900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.198306 seconds.
+  path: Assets/AurynSky/Forest Pack/Scripts/ChestDemo.cs
+  artifactKey: Guid(373ffa2c950091d47990a3706da202ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Scripts/ChestDemo.cs using Guid(373ffa2c950091d47990a3706da202ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a43c944a8dec053686869585ef82d85c') in 0.017663 seconds
+  Import took 0.028623 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002859 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.228 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2047.
+Total: 3.829100 ms (FindLiveObjects: 0.688800 ms CreateObjectMapping: 0.090000 ms MarkObjects: 2.972700 ms  DeleteObjects: 0.074000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 517.499170 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGround02.prefab
+  artifactKey: Guid(5cbae0602ce9acf41a98fda3a353569a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGround02.prefab using Guid(5cbae0602ce9acf41a98fda3a353569a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b0682187170d7aa3a43e611b564666') in 0.186494 seconds
+  Import took 0.192206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.956922 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGround01.prefab
+  artifactKey: Guid(1d9cc67243350f643b8c562ed0503c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGround01.prefab using Guid(1d9cc67243350f643b8c562ed0503c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e14bdea81792694ce8d44b69aba263') in 0.051269 seconds
+  Import took 0.071465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.559171 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGround01.prefab
+  artifactKey: Guid(1d9cc67243350f643b8c562ed0503c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGround01.prefab using Guid(1d9cc67243350f643b8c562ed0503c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52663b3541682a1bb4463c073f585c5c') in 0.027207 seconds
+  Import took 0.032881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021958 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGround01.prefab
+  artifactKey: Guid(1d9cc67243350f643b8c562ed0503c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGround01.prefab using Guid(1d9cc67243350f643b8c562ed0503c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52663b3541682a1bb4463c073f585c5c') in 0.036520 seconds
+  Import took 0.044222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.448501 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab
+  artifactKey: Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab using Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e211ac25a3652ec8d1042fb5f642b0b5') in 0.025728 seconds
+  Import took 0.051252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005903 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab
+  artifactKey: Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab using Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e211ac25a3652ec8d1042fb5f642b0b5') in 0.035379 seconds
+  Import took 0.045106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.755405 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab
+  artifactKey: Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab using Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dca2b9b5f72e7ca02a3b50b42a667af') in 0.028778 seconds
+  Import took 0.032466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051257 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab
+  artifactKey: Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestGroundDirt.prefab using Guid(13f1670c2e187874784d0f667f9057f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dca2b9b5f72e7ca02a3b50b42a667af') in 0.033621 seconds
+  Import took 0.042482 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003181 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.280 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2051.
+Total: 6.562400 ms (FindLiveObjects: 1.422800 ms CreateObjectMapping: 0.374000 ms MarkObjects: 4.484300 ms  DeleteObjects: 0.275300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001778 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2054.
+Total: 4.180500 ms (FindLiveObjects: 0.673000 ms CreateObjectMapping: 0.133900 ms MarkObjects: 3.269700 ms  DeleteObjects: 0.101800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 846.532259 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf43f86f8f6e7d7d9597461957cef857') in 0.187016 seconds
+  Import took 0.191203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.154486 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82e5d90ca9bfa71f7ba23787c9e30ff') in 0.037735 seconds
+  Import took 0.045312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.230844 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acec881e120eb93cae7a1230fe93c6e3') in 0.087435 seconds
+  Import took 0.216721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042731 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acec881e120eb93cae7a1230fe93c6e3') in 0.050933 seconds
+  Import took 0.058582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.859204 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d434aa2c628e1d685864bfea01d122') in 0.058295 seconds
+  Import took 0.068749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018526 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d434aa2c628e1d685864bfea01d122') in 0.044870 seconds
+  Import took 0.053401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.516568 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b1c863bbc1a3a9eceaea66300689cc') in 0.035780 seconds
+  Import took 0.043867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.828415 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1da176abfeba33c381c795a1f9efc9') in 0.039315 seconds
+  Import took 0.045193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.992222 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8dd6a5e89c8af1017225ea26b53eead') in 0.058221 seconds
+  Import took 0.071761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.131693 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9004b9f56666440dadf3c59bc3671989') in 0.040758 seconds
+  Import took 0.050723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.370181 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c430f25805bca0760add827b6e33f1d') in 0.031808 seconds
+  Import took 0.038680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.993864 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206deffa1d8dd9fc4675f3a68a694204') in 0.034536 seconds
+  Import took 0.041067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.805266 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e060d71235004c67a6f8a6bcfd4de7fb') in 0.039000 seconds
+  Import took 0.048514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.382295 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fb7ef5c6e81c73cb6d3cf8f020547a') in 0.029975 seconds
+  Import took 0.037826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.797601 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1e376071e67bdb07516ac62015ab48') in 0.045892 seconds
+  Import took 0.064978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.428484 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d547a9cd6b76f9cf31a4dae110cbbe') in 0.034082 seconds
+  Import took 0.053410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.751229 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a248064aad3473d7ae1050d8bdaed570') in 0.035500 seconds
+  Import took 0.052486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.943048 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d50fe56ed545baade6f19b68aec768') in 0.035751 seconds
+  Import took 0.041382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.234642 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ebfdf56c9ffa929b890417792bfdf0') in 0.025330 seconds
+  Import took 0.035023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.479812 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92ee15df4b47432106e13ed0698cc0c0') in 0.128255 seconds
+  Import took 0.139571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.570373 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de80548849e8dfc62114ea4828be7c09') in 0.040396 seconds
+  Import took 0.055126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.186768 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83eb6e8093bdd6996f62945cfe996ebf') in 0.035766 seconds
+  Import took 0.043534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.469858 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae4daf9e163874694f7e3f90a406965') in 0.034268 seconds
+  Import took 0.039340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.809437 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a1707b97743886650eda5b37a64cb4') in 0.042185 seconds
+  Import took 0.076852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.183871 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7f6d67663ddb124301b55d1ef39345') in 0.042413 seconds
+  Import took 0.054381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.083350 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78405ff1bec35d49afb87c258347bca') in 0.042410 seconds
+  Import took 0.052320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.864332 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6861f33d01c3e073a7dd4a1c74da3407') in 0.029431 seconds
+  Import took 0.042985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.016571 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894e9cd40428934e543286b5dce35c2e') in 0.070322 seconds
+  Import took 0.077607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.033839 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472798f4305d235813c03f92a21f13d9') in 0.033821 seconds
+  Import took 0.038825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.661046 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0daf7520de78c0fa89f47ca0c13d6513') in 0.033193 seconds
+  Import took 0.038090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.230154 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab
+  artifactKey: Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Blue/ForestBrazzierBlue.prefab using Guid(a29d452ee24577e46b40bd1b5396acc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60907fa84f2b095289ffa0762fc30136') in 0.036877 seconds
+  Import took 0.042188 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.049411 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.093 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.9 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2058.
+Total: 4.851800 ms (FindLiveObjects: 1.039400 ms CreateObjectMapping: 0.092700 ms MarkObjects: 3.643100 ms  DeleteObjects: 0.072600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.360256 seconds.
+  path: Assets/Prefabs/Waypoints/Waypoint0.prefab
+  artifactKey: Guid(c3171dad5c754ff47b11c10028996f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Waypoints/Waypoint0.prefab using Guid(c3171dad5c754ff47b11c10028996f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b616c0e3070f560dd8c28f4c901daea') in 0.152933 seconds
+  Import took 0.161077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002155 seconds.
+  path: Assets/Prefabs/Waypoints/Waypoint0.prefab
+  artifactKey: Guid(c3171dad5c754ff47b11c10028996f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Waypoints/Waypoint0.prefab using Guid(c3171dad5c754ff47b11c10028996f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b616c0e3070f560dd8c28f4c901daea') in 0.023732 seconds
+  Import took 0.030056 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.126 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.9 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2061.
+Total: 2.713500 ms (FindLiveObjects: 0.274600 ms CreateObjectMapping: 0.036900 ms MarkObjects: 2.323100 ms  DeleteObjects: 0.077400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003153 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.995 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.9 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2064.
+Total: 2.235700 ms (FindLiveObjects: 0.222700 ms CreateObjectMapping: 0.036400 ms MarkObjects: 1.889400 ms  DeleteObjects: 0.085700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 954.948375 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestCrate.prefab
+  artifactKey: Guid(1b5d1a6deebd81e4bba2448d18378844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestCrate.prefab using Guid(1b5d1a6deebd81e4bba2448d18378844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f0a7c8d7714b9420c0522206822284') in 0.121550 seconds
+  Import took 0.124614 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.040 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.9 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2068.
+Total: 2.514400 ms (FindLiveObjects: 0.250000 ms CreateObjectMapping: 0.050100 ms MarkObjects: 2.126700 ms  DeleteObjects: 0.086000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001415 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.305 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.9 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2071.
+Total: 7.353700 ms (FindLiveObjects: 1.125300 ms CreateObjectMapping: 0.236100 ms MarkObjects: 5.842000 ms  DeleteObjects: 0.144600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001244 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.281 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2074.
+Total: 7.053700 ms (FindLiveObjects: 0.638800 ms CreateObjectMapping: 0.089300 ms MarkObjects: 6.107800 ms  DeleteObjects: 0.213200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001962 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.334 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2077.
+Total: 7.689000 ms (FindLiveObjects: 1.316600 ms CreateObjectMapping: 0.359400 ms MarkObjects: 5.792100 ms  DeleteObjects: 0.216700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002140 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2080.
+Total: 7.567700 ms (FindLiveObjects: 1.009400 ms CreateObjectMapping: 0.116600 ms MarkObjects: 6.232700 ms  DeleteObjects: 0.203000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2205.509054 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/ForestBlock01.prefab
+  artifactKey: Guid(89843090f5c38c24c9500fe9490ba5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/ForestBlock01.prefab using Guid(89843090f5c38c24c9500fe9490ba5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad77b2604cd952a2ecbf550c024b02f0') in 0.228668 seconds
+  Import took 0.234794 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2084.
+Total: 4.625800 ms (FindLiveObjects: 0.458500 ms CreateObjectMapping: 0.076300 ms MarkObjects: 3.971600 ms  DeleteObjects: 0.117500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001138 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.286 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2087.
+Total: 2.054800 ms (FindLiveObjects: 0.218400 ms CreateObjectMapping: 0.035200 ms MarkObjects: 1.713800 ms  DeleteObjects: 0.085900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001191 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.214 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2090.
+Total: 2.704000 ms (FindLiveObjects: 0.232900 ms CreateObjectMapping: 0.036500 ms MarkObjects: 2.350300 ms  DeleteObjects: 0.082800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 256.601745 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd7872455b175c1dd9d5ae5a711fd74') in 0.739133 seconds
+  Import took 0.744463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70f92f3ac9d5cb8aedcee45ba6edffb') in 0.205987 seconds
+  Import took 0.210804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008214 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70f92f3ac9d5cb8aedcee45ba6edffb') in 0.049341 seconds
+  Import took 0.055720 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001422 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.992 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2094.
+Total: 10.181500 ms (FindLiveObjects: 2.254200 ms CreateObjectMapping: 0.406300 ms MarkObjects: 7.237300 ms  DeleteObjects: 0.275800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001731 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.058 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2097.
+Total: 7.745700 ms (FindLiveObjects: 1.057300 ms CreateObjectMapping: 0.358900 ms MarkObjects: 6.097000 ms  DeleteObjects: 0.227900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 941.055409 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4cd13f7999cf46695b196ac9cf8dbcc') in 0.294905 seconds
+  Import took 0.301318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e00587bd25860ce271190156583daf8') in 0.033032 seconds
+  Import took 0.050100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.328450 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0180aabc8c4dd77f143455c2d462a5') in 0.049579 seconds
+  Import took 0.073433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.018012 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3969866d47ef832c295f24f78325fe') in 0.050824 seconds
+  Import took 0.056165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.715820 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae3d1e6cf28cdc7bbf9b9345677b732') in 0.037843 seconds
+  Import took 0.044970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.382006 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f9e00cbc5a91208116e95264b6dfa1') in 0.026811 seconds
+  Import took 0.030944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.370657 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea02411e5c7bd090bf84b482fc2ddb2') in 0.038540 seconds
+  Import took 0.042708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.853183 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '461da53ac9e479fc141d62b420ec5173') in 0.021474 seconds
+  Import took 0.035222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.243858 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af4ec98ec2fa9cfcebfa005c0c8a55f4') in 0.029040 seconds
+  Import took 0.033973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.113843 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17eefbaa046d60713672b989ef570817') in 0.038857 seconds
+  Import took 0.044073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.910707 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c79e1fcdecd84f9cb71ee1719d6922') in 0.055211 seconds
+  Import took 0.065909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.539180 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86adca55442b70bc85e23a10c6a6bc3') in 0.040180 seconds
+  Import took 0.047290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.822939 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e152984c06480e9fa0cb5cc5bfcb79') in 0.019777 seconds
+  Import took 0.037881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.037291 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802f61627ee91b54e11acd7fbceaa5a5') in 0.035968 seconds
+  Import took 0.041187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.449616 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74bf51109468c5020735c7d92b7524ce') in 0.021393 seconds
+  Import took 0.029910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.818543 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df3f889aa2279debd73e3ed38d85b52d') in 0.025863 seconds
+  Import took 0.030779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.809134 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6ef8ee27984770492c1a13226a8777') in 0.027415 seconds
+  Import took 0.034228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.029306 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01fa3ac45c06e8a0a306a6f2ba23c53f') in 0.031473 seconds
+  Import took 0.038617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.699548 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a169f1fc6e7aa7c65c202cf1e7d5703b') in 0.021939 seconds
+  Import took 0.028012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.065978 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4bdb23fe893566eadd47c55e74cd4b6') in 0.027217 seconds
+  Import took 0.033165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.412767 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab9dbec6b05d7e8ce1d5057640fa29c') in 0.035258 seconds
+  Import took 0.043372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.582047 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a20ff5f7385aa803a4d401a2688138c4') in 0.041804 seconds
+  Import took 0.049166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.674854 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f701c7cccce8d4f0ae8027d09e6c0530') in 0.030712 seconds
+  Import took 0.035400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.033524 seconds.
+  path: Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab
+  artifactKey: Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Forest Pack/Prefabs/Prefabs_Red/ForestBrazzierRed.prefab using Guid(b8cd47ec0ed55ef4a81e264386f6aee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db8ead11b04ef9ea2c314683ffd471f') in 0.031225 seconds
+  Import took 0.035363 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001618 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.126 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 1.989600 ms (FindLiveObjects: 0.225700 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.649800 ms  DeleteObjects: 0.078100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003439 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.148 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2104.
+Total: 7.291500 ms (FindLiveObjects: 0.753600 ms CreateObjectMapping: 0.129000 ms MarkObjects: 6.191500 ms  DeleteObjects: 0.212600 ms)
+
