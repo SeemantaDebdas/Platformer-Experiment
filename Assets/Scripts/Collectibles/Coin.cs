@@ -16,6 +16,7 @@ public class Coin : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             HUDManager.Instance.UpdateCoinText();
+            AudioManager.Instance.PlayCoinCollectClip();
             GameManager.Instance.IncreaseCollectedCoins();
             Destroy(this.gameObject);
         }

@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
     int collectedCoins;
 
     public UnityEvent GameWonEvent;
+    bool gameWon;
 
     public void ProcessGameOver()
     {
@@ -37,11 +38,12 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if(collectedCoins == totalCoins)
+        if(collectedCoins == totalCoins && !gameWon)
         {
-            //show Win Screen
+            gameWon = true;
             GameWonEvent.Invoke();
             HUDManager.Instance.ActivateWinScreen();
+            AudioManager.Instance.PlayGameWonClip();
         }
 
         if (Input.GetKeyDown(KeyCode.P))
