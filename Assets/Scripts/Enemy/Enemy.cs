@@ -73,7 +73,7 @@ public class Enemy : MonoBehaviour
 
     void Shoot()
     {
-        Quaternion spawnRotation = (canFly) ? Quaternion.identity : Quaternion.Euler(0,0,90);
+        Quaternion spawnRotation = (canFly) ? Quaternion.identity : Quaternion.Euler(0,0,-90);
         GameObject projectilePrefabSpawn = Instantiate(projectile, spawnPoint.position,spawnRotation);
         projectilePrefabSpawn.GetComponent<Projectile>().ProjectileDirection = projectileDirection;
         projectilePrefabSpawn.GetComponent<Projectile>().ProjectionSpeed = projectileSpeed;

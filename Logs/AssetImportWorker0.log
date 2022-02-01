@@ -15,11 +15,11 @@ D:/Game Development/Respository/Unity 3D/Own/Platformer Experiment
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57161
+55404
 Successfully changed project path to: D:/Game Development/Respository/Unity 3D/Own/Platformer Experiment
 D:/Game Development/Respository/Unity 3D/Own/Platformer Experiment
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 248.44 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 45.76 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.6f1 (338bb68529b2)
 [Subsystems] Discovering subsystems at path D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
@@ -35,18 +35,1837 @@ Initialize mono
 Mono path[0] = 'D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56472
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.072323 seconds.
+Registered in 0.002329 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 55.73 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 33.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in 18.512 seconds
+- Completed reload, in 13.671 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.014563 seconds.
+Registered in 0.001162 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1548 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.9 MB.
+System memory in use after: 79.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 2.253700 ms (FindLiveObjects: 0.261800 ms CreateObjectMapping: 0.055600 ms MarkObjects: 1.842300 ms  DeleteObjects: 0.092400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/coin_07.png
+  artifactKey: Guid(107b12787fe02c2478bbb231b0e86202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_07.png using Guid(107b12787fe02c2478bbb231b0e86202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bde884a1cfd01d77e78618e642fdd5f') in 0.173298 seconds
+  Import took 0.196313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Sprites/coin_08.png
+  artifactKey: Guid(c9c6367eceece104bb584abdb793221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_08.png using Guid(c9c6367eceece104bb584abdb793221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e915a4c8cb82f83b5d594baf1813c55') in 0.012756 seconds
+  Import took 0.024597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Sprites/coin_06.png
+  artifactKey: Guid(3384876d481026e468572e25b11f8508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_06.png using Guid(3384876d481026e468572e25b11f8508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75e1d3188818891b3e14aa1d53939654') in 0.015979 seconds
+  Import took 0.024518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Sprites/Full Coins.png
+  artifactKey: Guid(d4d2467d501c7f0409fe39b10f22331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Full Coins.png using Guid(d4d2467d501c7f0409fe39b10f22331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e02b534dc0067b8f782aefff746e6a5') in 0.034412 seconds
+  Import took 0.049151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Sprites/coin_01.png
+  artifactKey: Guid(92ca3ecd6ccffb6479f3ce31f139a24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_01.png using Guid(92ca3ecd6ccffb6479f3ce31f139a24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfd65a0a4031d47e918d9e2d31f9cc55') in 0.115716 seconds
+  Import took 0.125921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Sprites/Coins.psd
+  artifactKey: Guid(c0235967a30b9714ba00c82cd4353404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Coins.psd using Guid(c0235967a30b9714ba00c82cd4353404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3800546d5c0ea4d167260c0d18ca6145') in 0.028312 seconds
+  Import took 0.052427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Sprites/coin_05.png
+  artifactKey: Guid(a2e47534e04823a45962d8bf4368434c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_05.png using Guid(a2e47534e04823a45962d8bf4368434c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030a497ad23c72c654e2e4ab2237040e') in 0.022826 seconds
+  Import took 0.029463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001025 seconds.
+  path: Assets/Sprites/coin_02.png
+  artifactKey: Guid(e497ccef1c210c74f9e3a5058a66be3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_02.png using Guid(e497ccef1c210c74f9e3a5058a66be3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4daa7fcc706b9175645bc5111c90e9') in 0.046226 seconds
+  Import took 0.058844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Sprites/coin_04.png
+  artifactKey: Guid(de3cbb379efa361498d7d05802ac9aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_04.png using Guid(de3cbb379efa361498d7d05802ac9aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ad63be3cf4416e0efc2f1fa148c305') in 0.064784 seconds
+  Import took 0.068876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Sprites/coin_02.png
+  artifactKey: Guid(e497ccef1c210c74f9e3a5058a66be3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_02.png using Guid(e497ccef1c210c74f9e3a5058a66be3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4daa7fcc706b9175645bc5111c90e9') in 0.010238 seconds
+  Import took 0.013552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Sprites/coin_03.png
+  artifactKey: Guid(da4912aca3bad1f4780e81fb6640c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_03.png using Guid(da4912aca3bad1f4780e81fb6640c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35881d2932190f2fe090fbe4cc4f4e83') in 0.012578 seconds
+  Import took 0.016404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.693713 seconds.
+  path: Assets/Sprites/coin_05.png
+  artifactKey: Guid(a2e47534e04823a45962d8bf4368434c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_05.png using Guid(a2e47534e04823a45962d8bf4368434c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbd63aa0f6784bea9359cfd2d9aa4d9') in 0.024889 seconds
+  Import took 0.028100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032206 seconds.
+  path: Assets/Sprites/coin_02.png
+  artifactKey: Guid(e497ccef1c210c74f9e3a5058a66be3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_02.png using Guid(e497ccef1c210c74f9e3a5058a66be3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45d22214578ea1329dfd5574ee3c617f') in 0.028769 seconds
+  Import took 0.044154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Sprites/coin_07.png
+  artifactKey: Guid(107b12787fe02c2478bbb231b0e86202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_07.png using Guid(107b12787fe02c2478bbb231b0e86202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1061d12430e1156ab21a58046818607') in 0.015768 seconds
+  Import took 0.021217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Sprites/coin_08.png
+  artifactKey: Guid(c9c6367eceece104bb584abdb793221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_08.png using Guid(c9c6367eceece104bb584abdb793221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d537a0dfc0fe2e90f9754affe0bf7c') in 0.016751 seconds
+  Import took 0.021758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Sprites/coin_06.png
+  artifactKey: Guid(3384876d481026e468572e25b11f8508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_06.png using Guid(3384876d481026e468572e25b11f8508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97a6164499d25a76686793c036927bd') in 0.020193 seconds
+  Import took 0.024081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Sprites/coin_04.png
+  artifactKey: Guid(de3cbb379efa361498d7d05802ac9aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_04.png using Guid(de3cbb379efa361498d7d05802ac9aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42687ef8773ad5b74de7eb653d2fdde') in 0.019128 seconds
+  Import took 0.023750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Sprites/coin_03.png
+  artifactKey: Guid(da4912aca3bad1f4780e81fb6640c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/coin_03.png using Guid(da4912aca3bad1f4780e81fb6640c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a71a67e5337508699250752eff5885bc') in 0.015503 seconds
+  Import took 0.020500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 917.203187 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG
+  artifactKey: Guid(c916dd2d9fee6ee439519878f24f16df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG using Guid(c916dd2d9fee6ee439519878f24f16df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6888f099ff0e191e8a22f8bfde726e0c') in 0.015886 seconds
+  Import took 0.033932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044135 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/BtnMenu.png
+  artifactKey: Guid(43fa960dbf67f294b96284d62a77b440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/BtnMenu.png using Guid(43fa960dbf67f294b96284d62a77b440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405e3e855799b8b08653a24fbafe7d50') in 0.021456 seconds
+  Import took 0.025762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Panel01.png
+  artifactKey: Guid(81b89e84131aab24d84a29b4badf6fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Panel01.png using Guid(81b89e84131aab24d84a29b4badf6fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5629a4afc653d4e31f95052deed7639b') in 0.011703 seconds
+  Import took 0.014963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon08.png
+  artifactKey: Guid(f57fcc34f4060ae4da2662935dbfd616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon08.png using Guid(f57fcc34f4060ae4da2662935dbfd616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2118551587ea808bf0788e1a02183f62') in 0.018711 seconds
+  Import took 0.030211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Message01.png
+  artifactKey: Guid(50cd61d5ca2414c41b88b8407356fae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Message01.png using Guid(50cd61d5ca2414c41b88b8407356fae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3308c9a6a14a19de1334de4c6f4d3271') in 0.018341 seconds
+  Import took 0.021444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon12.png
+  artifactKey: Guid(75cc9f6e832d8fc4cb0a0bbb7b85004b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon12.png using Guid(75cc9f6e832d8fc4cb0a0bbb7b85004b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1db7a7f84713d0a27801be007cfafbc') in 0.013738 seconds
+  Import took 0.024977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox05.png
+  artifactKey: Guid(3d10e14d5669d7f4f86745fe3290b99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox05.png using Guid(3d10e14d5669d7f4f86745fe3290b99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1b4d4f4a734da9d07f3f10c7ba2081') in 0.012653 seconds
+  Import took 0.025453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon03.png
+  artifactKey: Guid(1737f104e87c22f45896f98e00552f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon03.png using Guid(1737f104e87c22f45896f98e00552f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b14a8feb7376390c55aa16fcb083c96c') in 0.019364 seconds
+  Import took 0.023839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon04.png
+  artifactKey: Guid(2b13381f669543b439423d2c31c81474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon04.png using Guid(2b13381f669543b439423d2c31c81474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfecccba1531c714f0eeb88a8a22ca86') in 0.011674 seconds
+  Import took 0.022569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars04.png
+  artifactKey: Guid(5e70688b86aa7dd4ebc2be91b20e0b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars04.png using Guid(5e70688b86aa7dd4ebc2be91b20e0b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d31f1d1dc976b606337c574e735ca2') in 0.015069 seconds
+  Import took 0.018356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon15.png
+  artifactKey: Guid(6dfacea577b17a143b65cb176286e617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon15.png using Guid(6dfacea577b17a143b65cb176286e617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f6ee71a6bc7ec9e50c8f046278bbb2') in 0.016848 seconds
+  Import took 0.020540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon16.png
+  artifactKey: Guid(aa09e9d47483c1947a70d8a365713b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon16.png using Guid(aa09e9d47483c1947a70d8a365713b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93f30b7e23ee1e358a9d23eb1304e6f') in 0.015606 seconds
+  Import took 0.020160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon04.png
+  artifactKey: Guid(7d9252f604faa644d9d0b21f6c1c266a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon04.png using Guid(7d9252f604faa644d9d0b21f6c1c266a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d963183fbf7853ca142831f5fbe36c6') in 0.014432 seconds
+  Import took 0.018922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon01.png
+  artifactKey: Guid(ffba55de4425f064d906b20fc02747da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon01.png using Guid(ffba55de4425f064d906b20fc02747da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3ebc822892a22a7b4fc2ee0f87e568e') in 0.021017 seconds
+  Import took 0.027285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon05.png
+  artifactKey: Guid(7bc9d5f2f2f3422458b7afc674d7bfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon05.png using Guid(7bc9d5f2f2f3422458b7afc674d7bfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0f9a09878614d66fd71949a02d47ad') in 0.012509 seconds
+  Import took 0.016845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon11.png
+  artifactKey: Guid(9ca0ae773f4498449963ac58e09f2252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon11.png using Guid(9ca0ae773f4498449963ac58e09f2252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32c88afe4e80f7cb818c8ab5e013af7') in 0.024039 seconds
+  Import took 0.028825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon18.png
+  artifactKey: Guid(c6f244a7a8ae7b143ba2d52133958b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon18.png using Guid(c6f244a7a8ae7b143ba2d52133958b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f738bd9feba9e6636ebf00b208c2f989') in 0.016809 seconds
+  Import took 0.020827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Slider01.png
+  artifactKey: Guid(66fb826ec1bfae74e9eee0e5f8c64d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Slider01.png using Guid(66fb826ec1bfae74e9eee0e5f8c64d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0957724c01bb3505dff017e9d01c568') in 0.016478 seconds
+  Import took 0.031764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStarsLock05.png
+  artifactKey: Guid(07ee2d11e56a6604482b1ec59399b4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStarsLock05.png using Guid(07ee2d11e56a6604482b1ec59399b4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d1eecf17d5dad7ccd20478a05be299') in 0.019377 seconds
+  Import took 0.023965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars02.png
+  artifactKey: Guid(5f671504828841740ab5112a9fd7db4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars02.png using Guid(5f671504828841740ab5112a9fd7db4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a6bc7d6319040c907e9f9977d047fd') in 0.012821 seconds
+  Import took 0.016742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars01.png
+  artifactKey: Guid(3c22b5c07dc0167498d6467471b488da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars01.png using Guid(3c22b5c07dc0167498d6467471b488da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2497cc970d0f791180d4bcfc99b7186') in 0.022456 seconds
+  Import took 0.026120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon12.png
+  artifactKey: Guid(29a246f4eb92653428a6f377f3f21ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon12.png using Guid(29a246f4eb92653428a6f377f3f21ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a2bd4c35de0be51174f4a4b6095d22') in 0.014905 seconds
+  Import took 0.019110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000541 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Button01.png
+  artifactKey: Guid(16e9fa809142b9246bf0942c59c4dd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Button01.png using Guid(16e9fa809142b9246bf0942c59c4dd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20de9391e6a39360d19e572d807d163') in 0.016411 seconds
+  Import took 0.020783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars05.png
+  artifactKey: Guid(04d3afbc2f92c8641bed17ea45890569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars05.png using Guid(04d3afbc2f92c8641bed17ea45890569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '448c1bab2f6e1de4637dc06a9433ea80') in 0.017634 seconds
+  Import took 0.020393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon03.png
+  artifactKey: Guid(04c40ae77652fc14983a90834971c1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon03.png using Guid(04c40ae77652fc14983a90834971c1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4084fe2d38eedf8d1b456e3ddbfb97a') in 0.016166 seconds
+  Import took 0.020668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox03.png
+  artifactKey: Guid(8b2c1c417c320e6429a84fcf93a6befc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox03.png using Guid(8b2c1c417c320e6429a84fcf93a6befc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a4b124c7bc1d080a3d078f9fa30579') in 0.015247 seconds
+  Import took 0.019942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon02.png
+  artifactKey: Guid(2ef5a9b5e3940014c8db81cb4808714e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon02.png using Guid(2ef5a9b5e3940014c8db81cb4808714e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99656aab7a510ac2f7dad0a0af506084') in 0.019816 seconds
+  Import took 0.024060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon09.png
+  artifactKey: Guid(9a7006cf5e6d92a4d817da020a5d56e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon09.png using Guid(9a7006cf5e6d92a4d817da020a5d56e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7cd116e516b17d1d08101547e3e5e1') in 0.011396 seconds
+  Import took 0.014849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStarsLock06.png
+  artifactKey: Guid(7ce7a1a0fab4c1c4292ecdcb95433000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStarsLock06.png using Guid(7ce7a1a0fab4c1c4292ecdcb95433000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4e9a268519fdc6a65f98b2cda673b6') in 0.019956 seconds
+  Import took 0.024500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000590 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon06.png
+  artifactKey: Guid(c8d2a680dac19ee47b63e06bff582023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon06.png using Guid(c8d2a680dac19ee47b63e06bff582023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc60b8f455af965bff6dcc37dea32d1') in 0.017628 seconds
+  Import took 0.023131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon13.png
+  artifactKey: Guid(d1900b745d732cf4097d99fb8ccf6d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon13.png using Guid(d1900b745d732cf4097d99fb8ccf6d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06da24ea9153fce8cf9a10b89a7cca13') in 0.015263 seconds
+  Import took 0.018802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars03.png
+  artifactKey: Guid(e9eed69dc5720024981e06a4069e4679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars03.png using Guid(e9eed69dc5720024981e06a4069e4679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120a2479d32c3796026742ef46918a87') in 0.024378 seconds
+  Import took 0.028638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon.png
+  artifactKey: Guid(592a02caf46088544ac8979ec817f97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon.png using Guid(592a02caf46088544ac8979ec817f97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e11595f00b5118c3e614bb0ac1b073') in 0.019488 seconds
+  Import took 0.023655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Button03.png
+  artifactKey: Guid(bf6f1fee71a7c6c4bbbc86418d041509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Button03.png using Guid(bf6f1fee71a7c6c4bbbc86418d041509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'accd2b2b32d5b810af1e64066d1a39de') in 0.016155 seconds
+  Import took 0.022226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon06.png
+  artifactKey: Guid(3f14f0d114150e8498a8e320a5f0f29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon06.png using Guid(3f14f0d114150e8498a8e320a5f0f29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cea9fb4e7b23e166cc262bd5940c778') in 0.013302 seconds
+  Import took 0.019147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon07.png
+  artifactKey: Guid(86f53b0cb415501429ab5eac23dd03d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon07.png using Guid(86f53b0cb415501429ab5eac23dd03d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86d8c28d9c2f8d2ce9e1258b85a8451') in 0.017721 seconds
+  Import took 0.020846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox01.png
+  artifactKey: Guid(55cbe7ea3c4c5274681c44af2cb933e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox01.png using Guid(55cbe7ea3c4c5274681c44af2cb933e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13730e94a7e5dc6f7f8e0f180c282afe') in 0.014318 seconds
+  Import took 0.018705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon02.png
+  artifactKey: Guid(29ba788a066ad9041be6127d67473751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon02.png using Guid(29ba788a066ad9041be6127d67473751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd605385baa37b4ff44a847ee47f98f61') in 0.016018 seconds
+  Import took 0.020559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon08.png
+  artifactKey: Guid(16ec76a95b5fa034da5a905e2501db0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon08.png using Guid(16ec76a95b5fa034da5a905e2501db0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3396de5db7c0c85e91419a546e68226f') in 0.022589 seconds
+  Import took 0.028295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars02.png
+  artifactKey: Guid(85dfb1097cb793b46a1de545775ce479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars02.png using Guid(85dfb1097cb793b46a1de545775ce479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b65e8cf1111c7ebb79a64f36ff4798') in 0.022153 seconds
+  Import took 0.028772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon09.png
+  artifactKey: Guid(3715f1aa717c1c245b00a721a7f32eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon09.png using Guid(3715f1aa717c1c245b00a721a7f32eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40fa5a691f170ab4532fa48f52ea3720') in 0.014461 seconds
+  Import took 0.020698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000871 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon11.png
+  artifactKey: Guid(c6a538b66556b5c4f8ce732e65bd889a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon11.png using Guid(c6a538b66556b5c4f8ce732e65bd889a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd07d6acef2011d98e853587e619154') in 0.014623 seconds
+  Import took 0.028480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon17.png
+  artifactKey: Guid(617d7471ddc070a47a1985a11d1872b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon17.png using Guid(617d7471ddc070a47a1985a11d1872b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8ce68fb9537ad78087c7957f2ad068f') in 0.015948 seconds
+  Import took 0.019631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Button02.png
+  artifactKey: Guid(0c2385d204389a14abdd5e08455d4cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Button02.png using Guid(0c2385d204389a14abdd5e08455d4cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b391d453b51646301a2ac2a86358bcc') in 0.015027 seconds
+  Import took 0.021019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Slider02.png
+  artifactKey: Guid(463b8398ff18f3347b3d325adf4d17ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Slider02.png using Guid(463b8398ff18f3347b3d325adf4d17ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d592f1554b7ba73621a3df1efb06a1') in 0.028327 seconds
+  Import took 0.035476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon01.png
+  artifactKey: Guid(ef7aaa4f90289714e9f446770333a9a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon01.png using Guid(ef7aaa4f90289714e9f446770333a9a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39fe38260a144ede6cc9dbca9204ecc5') in 0.015142 seconds
+  Import took 0.019221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon14.png
+  artifactKey: Guid(0061808874e0f2f449caf370279e5558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon14.png using Guid(0061808874e0f2f449caf370279e5558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c381ddcbb12f09143e79847e30aaa872') in 0.018105 seconds
+  Import took 0.022987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Menu.png
+  artifactKey: Guid(71912647bba9e6f4cac6e2df6f77b60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Menu.png using Guid(71912647bba9e6f4cac6e2df6f77b60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71dd87f91581ffa81659b0cf8a14b947') in 0.023897 seconds
+  Import took 0.039812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/WindowSettings.png
+  artifactKey: Guid(a60e83db4992d8743972e43db4861811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/WindowSettings.png using Guid(a60e83db4992d8743972e43db4861811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98657727abc88a17b612a1b49b2a4f6d') in 0.018766 seconds
+  Import took 0.024676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon07.png
+  artifactKey: Guid(5ee0bdd75d65beb40b0ca91991884a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon07.png using Guid(5ee0bdd75d65beb40b0ca91991884a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8fb5fa119b1f736c382cb6ecdc657fa') in 0.018650 seconds
+  Import took 0.023471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars03.png
+  artifactKey: Guid(0d5be11c82192bf44a17afbe76d8aa69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars03.png using Guid(0d5be11c82192bf44a17afbe76d8aa69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da062e7e25a11fc76fcaac19af09a879') in 0.013927 seconds
+  Import took 0.017935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars04.png
+  artifactKey: Guid(dcc7b39fb61c21a41b9bd2277a47800e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars04.png using Guid(dcc7b39fb61c21a41b9bd2277a47800e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8545aded6cfbcb8c0449a6481d8abf0b') in 0.023664 seconds
+  Import took 0.038400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars05.png
+  artifactKey: Guid(2a8a76148eb1e6c4bb8638b16b9834d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars05.png using Guid(2a8a76148eb1e6c4bb8638b16b9834d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9bc28829f144b465e76d83e16f72a7') in 0.022011 seconds
+  Import took 0.026295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox02.png
+  artifactKey: Guid(a1b8e3b7a1e5e5244b2bbac6f6989e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox02.png using Guid(a1b8e3b7a1e5e5244b2bbac6f6989e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d63e90dca9a580af5517ec161511d7c') in 0.018257 seconds
+  Import took 0.021657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon05.png
+  artifactKey: Guid(1415c2d6c05ff0e40af451febcc1f8b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon05.png using Guid(1415c2d6c05ff0e40af451febcc1f8b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034783908e9cf24f34685e68b9078788') in 0.013208 seconds
+  Import took 0.016661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars01.png
+  artifactKey: Guid(2f8edccfedff9d14a94f75d356763ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars01.png using Guid(2f8edccfedff9d14a94f75d356763ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ec2878627b719b524429e669bf7c38') in 0.016598 seconds
+  Import took 0.022769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox04.png
+  artifactKey: Guid(705cca6c302420c4497b2873920b6968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox04.png using Guid(705cca6c302420c4497b2873920b6968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54073634ef21dba1a5effbc1fcecfa3') in 0.016417 seconds
+  Import took 0.022180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon10.png
+  artifactKey: Guid(7dd9d3e4958bb5a4a95ec3f6788e6a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon10.png using Guid(7dd9d3e4958bb5a4a95ec3f6788e6a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4366264b884cb9c5ed93fe003bd657') in 0.014202 seconds
+  Import took 0.018193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon10.png
+  artifactKey: Guid(76c57136f0f835449b50b7cc6fc18535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon10.png using Guid(76c57136f0f835449b50b7cc6fc18535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0b0fd1fa542862fd023d9177e99c47') in 0.021854 seconds
+  Import took 0.025354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.570123 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars01.png
+  artifactKey: Guid(3c22b5c07dc0167498d6467471b488da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars01.png using Guid(3c22b5c07dc0167498d6467471b488da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7674e806b6b83547842bdaa4fe5cc39') in 0.017438 seconds
+  Import took 0.020862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon08.png
+  artifactKey: Guid(f57fcc34f4060ae4da2662935dbfd616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon08.png using Guid(f57fcc34f4060ae4da2662935dbfd616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db02f93ff540a8a32e569e9020b5e2f6') in 0.011923 seconds
+  Import took 0.014632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Message01.png
+  artifactKey: Guid(50cd61d5ca2414c41b88b8407356fae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Message01.png using Guid(50cd61d5ca2414c41b88b8407356fae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1d543ed0f6fdd299222848308b43adb') in 0.024421 seconds
+  Import took 0.028068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon12.png
+  artifactKey: Guid(75cc9f6e832d8fc4cb0a0bbb7b85004b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon12.png using Guid(75cc9f6e832d8fc4cb0a0bbb7b85004b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f18a7a26c08c6e3f900d92e841a3d19b') in 0.023541 seconds
+  Import took 0.028368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox05.png
+  artifactKey: Guid(3d10e14d5669d7f4f86745fe3290b99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox05.png using Guid(3d10e14d5669d7f4f86745fe3290b99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd315fa2ccba244fd6e6b78b8e3833fd') in 0.017549 seconds
+  Import took 0.021298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon03.png
+  artifactKey: Guid(1737f104e87c22f45896f98e00552f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon03.png using Guid(1737f104e87c22f45896f98e00552f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0eade806d729f691420aa4dea7aee78') in 0.029129 seconds
+  Import took 0.034250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000868 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon04.png
+  artifactKey: Guid(2b13381f669543b439423d2c31c81474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon04.png using Guid(2b13381f669543b439423d2c31c81474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0003aa2df6a2e517eeae5e851617cd') in 0.012663 seconds
+  Import took 0.018446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars04.png
+  artifactKey: Guid(5e70688b86aa7dd4ebc2be91b20e0b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars04.png using Guid(5e70688b86aa7dd4ebc2be91b20e0b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262c99b29e5692694fd11ac972a42e3c') in 0.018786 seconds
+  Import took 0.024369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon15.png
+  artifactKey: Guid(6dfacea577b17a143b65cb176286e617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon15.png using Guid(6dfacea577b17a143b65cb176286e617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc4d776885da7e90c05e1371ec770559') in 0.026499 seconds
+  Import took 0.029427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon16.png
+  artifactKey: Guid(aa09e9d47483c1947a70d8a365713b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon16.png using Guid(aa09e9d47483c1947a70d8a365713b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9acfea6f42d4d45e31f22373969455e5') in 0.014184 seconds
+  Import took 0.018330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon01.png
+  artifactKey: Guid(ffba55de4425f064d906b20fc02747da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon01.png using Guid(ffba55de4425f064d906b20fc02747da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef3bd9df28e7cdef85fa89b8a4c8aa50') in 0.012545 seconds
+  Import took 0.016860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars02.png
+  artifactKey: Guid(5f671504828841740ab5112a9fd7db4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars02.png using Guid(5f671504828841740ab5112a9fd7db4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99436d6a56a37a279d6fb98ee8b92de6') in 0.023523 seconds
+  Import took 0.027432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon18.png
+  artifactKey: Guid(c6f244a7a8ae7b143ba2d52133958b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon18.png using Guid(c6f244a7a8ae7b143ba2d52133958b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b519346cbca34b8d1e1308c89af010') in 0.013367 seconds
+  Import took 0.017245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Slider01.png
+  artifactKey: Guid(66fb826ec1bfae74e9eee0e5f8c64d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Slider01.png using Guid(66fb826ec1bfae74e9eee0e5f8c64d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ae0825af5a452fd3c537dbfcc9aa3f') in 0.016007 seconds
+  Import took 0.020150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStarsLock05.png
+  artifactKey: Guid(07ee2d11e56a6604482b1ec59399b4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStarsLock05.png using Guid(07ee2d11e56a6604482b1ec59399b4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a200a4739c2fc0554c98ead5b6b9dd30') in 0.021108 seconds
+  Import took 0.025513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars05.png
+  artifactKey: Guid(04d3afbc2f92c8641bed17ea45890569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars05.png using Guid(04d3afbc2f92c8641bed17ea45890569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca615d0c2efbbcab1357ada7c289bbf') in 0.011197 seconds
+  Import took 0.014737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox03.png
+  artifactKey: Guid(8b2c1c417c320e6429a84fcf93a6befc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox03.png using Guid(8b2c1c417c320e6429a84fcf93a6befc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad366816112d3cc348c7a7783c999a7d') in 0.020984 seconds
+  Import took 0.024477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStarsLock06.png
+  artifactKey: Guid(7ce7a1a0fab4c1c4292ecdcb95433000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStarsLock06.png using Guid(7ce7a1a0fab4c1c4292ecdcb95433000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa77a967ddc4c133f00432704adc228') in 0.021192 seconds
+  Import took 0.025463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon06.png
+  artifactKey: Guid(c8d2a680dac19ee47b63e06bff582023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon06.png using Guid(c8d2a680dac19ee47b63e06bff582023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4006844ba3eb901fd8ad4e9f97e5dca4') in 0.013870 seconds
+  Import took 0.016997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon13.png
+  artifactKey: Guid(d1900b745d732cf4097d99fb8ccf6d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon13.png using Guid(d1900b745d732cf4097d99fb8ccf6d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af99ac15ec25989e1976e329496e4ed4') in 0.024550 seconds
+  Import took 0.028798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars03.png
+  artifactKey: Guid(e9eed69dc5720024981e06a4069e4679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars03.png using Guid(e9eed69dc5720024981e06a4069e4679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b21d9d8f8e1a2aefc6ed91103e2b500') in 0.019034 seconds
+  Import took 0.022284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon06.png
+  artifactKey: Guid(3f14f0d114150e8498a8e320a5f0f29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon06.png using Guid(3f14f0d114150e8498a8e320a5f0f29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6f83a66b1d3c318d799ea16a4647d0') in 0.013133 seconds
+  Import took 0.016561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon07.png
+  artifactKey: Guid(86f53b0cb415501429ab5eac23dd03d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon07.png using Guid(86f53b0cb415501429ab5eac23dd03d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '500729f5c73f2196a2e120b9045bfaf9') in 0.020783 seconds
+  Import took 0.025554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox01.png
+  artifactKey: Guid(55cbe7ea3c4c5274681c44af2cb933e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox01.png using Guid(55cbe7ea3c4c5274681c44af2cb933e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b709809be30188aa26689f2f0882b78') in 0.018044 seconds
+  Import took 0.021480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon02.png
+  artifactKey: Guid(29ba788a066ad9041be6127d67473751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon02.png using Guid(29ba788a066ad9041be6127d67473751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7e0cc30b6bf69d8d17b4624a9da41a') in 0.012201 seconds
+  Import took 0.015996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars02.png
+  artifactKey: Guid(85dfb1097cb793b46a1de545775ce479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars02.png using Guid(85dfb1097cb793b46a1de545775ce479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4e4b9104f3a8597a9401f93bd993a7') in 0.021451 seconds
+  Import took 0.026752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon11.png
+  artifactKey: Guid(c6a538b66556b5c4f8ce732e65bd889a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon11.png using Guid(c6a538b66556b5c4f8ce732e65bd889a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b71ed18a16e299699902333febf1ba94') in 0.015818 seconds
+  Import took 0.019441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon09.png
+  artifactKey: Guid(3715f1aa717c1c245b00a721a7f32eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon09.png using Guid(3715f1aa717c1c245b00a721a7f32eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed6b5475242fbcc2264873d778029b2') in 0.017541 seconds
+  Import took 0.020961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon17.png
+  artifactKey: Guid(617d7471ddc070a47a1985a11d1872b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon17.png using Guid(617d7471ddc070a47a1985a11d1872b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99491c3cc31c39df3e0c2cd59087e177') in 0.015831 seconds
+  Import took 0.020526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Slider02.png
+  artifactKey: Guid(463b8398ff18f3347b3d325adf4d17ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Slider02.png using Guid(463b8398ff18f3347b3d325adf4d17ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542d5c9e30113e00c1ce5b8edea2e740') in 0.014152 seconds
+  Import took 0.018314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon14.png
+  artifactKey: Guid(0061808874e0f2f449caf370279e5558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon14.png using Guid(0061808874e0f2f449caf370279e5558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b48c42c88f9ebea83c897b91f2b011') in 0.018709 seconds
+  Import took 0.022441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Menu.png
+  artifactKey: Guid(71912647bba9e6f4cac6e2df6f77b60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Menu.png using Guid(71912647bba9e6f4cac6e2df6f77b60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb71669450bd78c7b3be51e1d2c2067d') in 0.020852 seconds
+  Import took 0.023616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/WindowSettings.png
+  artifactKey: Guid(a60e83db4992d8743972e43db4861811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/WindowSettings.png using Guid(a60e83db4992d8743972e43db4861811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2afe92a1cfde8e7166e8dfc27403a41') in 0.018628 seconds
+  Import took 0.022837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars03.png
+  artifactKey: Guid(0d5be11c82192bf44a17afbe76d8aa69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars03.png using Guid(0d5be11c82192bf44a17afbe76d8aa69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f549442306b7174e588bd8d02711e0') in 0.016980 seconds
+  Import took 0.020627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars04.png
+  artifactKey: Guid(dcc7b39fb61c21a41b9bd2277a47800e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars04.png using Guid(dcc7b39fb61c21a41b9bd2277a47800e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84675279c76750e8fcf0ece4a39efc1') in 0.019138 seconds
+  Import took 0.022447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonStars05.png
+  artifactKey: Guid(2a8a76148eb1e6c4bb8638b16b9834d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonStars05.png using Guid(2a8a76148eb1e6c4bb8638b16b9834d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f842d5ca300c0b8d71402db218446cf9') in 0.015762 seconds
+  Import took 0.019868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox04.png
+  artifactKey: Guid(705cca6c302420c4497b2873920b6968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox04.png using Guid(705cca6c302420c4497b2873920b6968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6d3af668039d53343c85c1c76dd5eb') in 0.017389 seconds
+  Import took 0.021685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/CheckBox02.png
+  artifactKey: Guid(a1b8e3b7a1e5e5244b2bbac6f6989e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/CheckBox02.png using Guid(a1b8e3b7a1e5e5244b2bbac6f6989e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23814370c5a590f719a7628f915fdc96') in 0.020141 seconds
+  Import took 0.023295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon05.png
+  artifactKey: Guid(1415c2d6c05ff0e40af451febcc1f8b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon05.png using Guid(1415c2d6c05ff0e40af451febcc1f8b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcba884e12e6ff296821d1a7eb69b728') in 0.010985 seconds
+  Import took 0.014566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/IconsStars01.png
+  artifactKey: Guid(2f8edccfedff9d14a94f75d356763ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/IconsStars01.png using Guid(2f8edccfedff9d14a94f75d356763ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6560580504a4b0bfd3b2f855367b6609') in 0.019517 seconds
+  Import took 0.023914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Panel01.png
+  artifactKey: Guid(81b89e84131aab24d84a29b4badf6fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Panel01.png using Guid(81b89e84131aab24d84a29b4badf6fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5525c28f159fb1b2771c95221d3de45d') in 0.024009 seconds
+  Import took 0.027772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Icon10.png
+  artifactKey: Guid(76c57136f0f835449b50b7cc6fc18535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Icon10.png using Guid(76c57136f0f835449b50b7cc6fc18535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87fc8aec916c9d37c9df6f12793e28df') in 0.019239 seconds
+  Import took 0.024575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.219419 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/BtnMenu.png
+  artifactKey: Guid(43fa960dbf67f294b96284d62a77b440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/BtnMenu.png using Guid(43fa960dbf67f294b96284d62a77b440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ed22153e9c29c610b7dcd3ad234441') in 0.019236 seconds
+  Import took 0.022207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon04.png
+  artifactKey: Guid(7d9252f604faa644d9d0b21f6c1c266a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon04.png using Guid(7d9252f604faa644d9d0b21f6c1c266a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2bc67447d2929919abc842ef2664be') in 0.018101 seconds
+  Import took 0.022103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon05.png
+  artifactKey: Guid(7bc9d5f2f2f3422458b7afc674d7bfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon05.png using Guid(7bc9d5f2f2f3422458b7afc674d7bfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef3a902ae29f23169179140634c2271') in 0.011986 seconds
+  Import took 0.015379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon11.png
+  artifactKey: Guid(9ca0ae773f4498449963ac58e09f2252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon11.png using Guid(9ca0ae773f4498449963ac58e09f2252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c94102380bf436f9d0e13dd30d5a8e') in 0.023231 seconds
+  Import took 0.027135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon12.png
+  artifactKey: Guid(29a246f4eb92653428a6f377f3f21ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon12.png using Guid(29a246f4eb92653428a6f377f3f21ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa7c12f1bfb9fe0557b2ffad32ee5c5') in 0.018075 seconds
+  Import took 0.021913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Button01.png
+  artifactKey: Guid(16e9fa809142b9246bf0942c59c4dd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Button01.png using Guid(16e9fa809142b9246bf0942c59c4dd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e8c37cf06ae6199b1ca7aba59078131') in 0.012299 seconds
+  Import took 0.030112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon03.png
+  artifactKey: Guid(04c40ae77652fc14983a90834971c1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon03.png using Guid(04c40ae77652fc14983a90834971c1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd52770c47bb67b7c8e79dc33c2c073e6') in 0.016806 seconds
+  Import took 0.021953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon02.png
+  artifactKey: Guid(2ef5a9b5e3940014c8db81cb4808714e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon02.png using Guid(2ef5a9b5e3940014c8db81cb4808714e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95a31534ecca70acb9e34c8c0b760877') in 0.017716 seconds
+  Import took 0.021598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon09.png
+  artifactKey: Guid(9a7006cf5e6d92a4d817da020a5d56e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon09.png using Guid(9a7006cf5e6d92a4d817da020a5d56e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc1ec437322ca968d6ac378fdaceea0') in 0.019550 seconds
+  Import took 0.025299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000577 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon.png
+  artifactKey: Guid(592a02caf46088544ac8979ec817f97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon.png using Guid(592a02caf46088544ac8979ec817f97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58cce86ab5357e99942d7df3c2e64257') in 0.016067 seconds
+  Import took 0.023062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Button03.png
+  artifactKey: Guid(bf6f1fee71a7c6c4bbbc86418d041509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Button03.png using Guid(bf6f1fee71a7c6c4bbbc86418d041509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb3c94342794001e1f52a1bee7a9f1f') in 0.028949 seconds
+  Import took 0.033182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon08.png
+  artifactKey: Guid(16ec76a95b5fa034da5a905e2501db0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon08.png using Guid(16ec76a95b5fa034da5a905e2501db0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '426d6dd69668aa0a6722abe2b9e6ccb4') in 0.016780 seconds
+  Import took 0.020998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/Button02.png
+  artifactKey: Guid(0c2385d204389a14abdd5e08455d4cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/Button02.png using Guid(0c2385d204389a14abdd5e08455d4cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2615b1e9aca5ccbdfeb0a521bd18278f') in 0.017886 seconds
+  Import took 0.022174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon01.png
+  artifactKey: Guid(ef7aaa4f90289714e9f446770333a9a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon01.png using Guid(ef7aaa4f90289714e9f446770333a9a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef179fa0751ae5edf66e5a8ad4e301fb') in 0.015589 seconds
+  Import took 0.019825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon07.png
+  artifactKey: Guid(5ee0bdd75d65beb40b0ca91991884a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon07.png using Guid(5ee0bdd75d65beb40b0ca91991884a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48afa519ccb916e80e1338eb18cb5808') in 0.018918 seconds
+  Import took 0.023632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/assets_uicasualgameinterface/PNG/ButtonIcon10.png
+  artifactKey: Guid(7dd9d3e4958bb5a4a95ec3f6788e6a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets_uicasualgameinterface/PNG/ButtonIcon10.png using Guid(7dd9d3e4958bb5a4a95ec3f6788e6a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7490aabc70bf811845a7f5d9aa3a0996') in 0.024713 seconds
+  Import took 0.029331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 546.145190 seconds.
+  path: Assets/Fonts/Takeover-Italic.ttf
+  artifactKey: Guid(e7e2ea666356e004dadd844468314062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover-Italic.ttf using Guid(e7e2ea666356e004dadd844468314062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200839f606537ce5f3c869601de38c1d') in 0.287182 seconds
+  Import took 0.290527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Fonts/TakeoverCollegeComic.ttf
+  artifactKey: Guid(db0758c6376db4143b5db7d6f4140730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/TakeoverCollegeComic.ttf using Guid(db0758c6376db4143b5db7d6f4140730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496d5e3202a5a56d0161f8314a7aad7e') in 0.016796 seconds
+  Import took 0.036073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Fonts/Takeover3D.ttf
+  artifactKey: Guid(fa2021a896515ba409a5248d6f6ee231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover3D.ttf using Guid(fa2021a896515ba409a5248d6f6ee231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f124c246724092a925b8f7619c042346') in 0.017205 seconds
+  Import took 0.022830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000801 seconds.
+  path: Assets/Fonts/Takeover.ttf
+  artifactKey: Guid(1d9769d1f54211449aaf38cbcdc0ff3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover.ttf using Guid(1d9769d1f54211449aaf38cbcdc0ff3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c957bbe4040db7fcdae6f1395eea89') in 0.023879 seconds
+  Import took 0.031106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000799 seconds.
+  path: Assets/Fonts/Takeover3DFilled.ttf
+  artifactKey: Guid(1c515fc313a2abc43afc1bfed8e3dbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover3DFilled.ttf using Guid(1c515fc313a2abc43afc1bfed8e3dbd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26640ff7f1a63dacc837a1a6accaae91') in 0.023171 seconds
+  Import took 0.028022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Fonts/TakeoverShadow.ttf
+  artifactKey: Guid(1f14aed0c2dc3b34aafc19f706dc513d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/TakeoverShadow.ttf using Guid(1f14aed0c2dc3b34aafc19f706dc513d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5631a3b3066eaf541dbeb01cd2736579') in 0.023469 seconds
+  Import took 0.027574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Fonts/TakeoverCollege.ttf
+  artifactKey: Guid(8387272fab21bfc439ae869228c5ee62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/TakeoverCollege.ttf using Guid(8387272fab21bfc439ae869228c5ee62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdede49814cad14556a5f9f5b1813e00') in 0.022733 seconds
+  Import took 0.026604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.601668 seconds.
+  path: Assets/Fonts/Takeover3D SDF.asset
+  artifactKey: Guid(7985c8cece44c1947808a0fc12a3eab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover3D SDF.asset using Guid(7985c8cece44c1947808a0fc12a3eab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2bc895e9687d9b32940bfa06a7f591') in 0.115006 seconds
+  Import took 0.119369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 242.252011 seconds.
+  path: Assets/Fonts/Takeover3D SDF.asset
+  artifactKey: Guid(7985c8cece44c1947808a0fc12a3eab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover3D SDF.asset using Guid(7985c8cece44c1947808a0fc12a3eab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c42d1a44914d4d9a5d1df040a5e320') in 0.029349 seconds
+  Import took 0.042638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000655 seconds.
+  path: Assets/Fonts/Takeover3DFilled SDF.asset
+  artifactKey: Guid(7fab496d66fb36b4f8a963ef8f4a0bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover3DFilled SDF.asset using Guid(7fab496d66fb36b4f8a963ef8f4a0bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12df4f4ff4c7ae121f452cab58daa1ec') in 0.036446 seconds
+  Import took 0.041279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003593 seconds.
+  path: Assets/Fonts/Takeover3DFilled SDF.asset
+  artifactKey: Guid(7fab496d66fb36b4f8a963ef8f4a0bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover3DFilled SDF.asset using Guid(7fab496d66fb36b4f8a963ef8f4a0bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12df4f4ff4c7ae121f452cab58daa1ec') in 0.027197 seconds
+  Import took 0.031069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 470.703538 seconds.
+  path: Assets/Fonts/Takeover3DFilled SDF.asset
+  artifactKey: Guid(7fab496d66fb36b4f8a963ef8f4a0bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover3DFilled SDF.asset using Guid(7fab496d66fb36b4f8a963ef8f4a0bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb2f45d9555f2f101e055ef4b91ffa9') in 0.035027 seconds
+  Import took 0.040824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Fonts/TakeoverCollegeComic SDF.asset
+  artifactKey: Guid(fb93e36fc72878346b90d789e1d8fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/TakeoverCollegeComic SDF.asset using Guid(fb93e36fc72878346b90d789e1d8fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dda286b807aa3bebcd62befec923dc2') in 0.034325 seconds
+  Import took 0.041285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Fonts/Takeover3DFilled SDF.asset
+  artifactKey: Guid(7fab496d66fb36b4f8a963ef8f4a0bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Takeover3DFilled SDF.asset using Guid(7fab496d66fb36b4f8a963ef8f4a0bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb2f45d9555f2f101e055ef4b91ffa9') in 0.035092 seconds
+  Import took 0.039071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.723593 seconds.
+  path: Assets/Fonts/TakeoverCollegeComic SDF.asset
+  artifactKey: Guid(fb93e36fc72878346b90d789e1d8fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/TakeoverCollegeComic SDF.asset using Guid(fb93e36fc72878346b90d789e1d8fcb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '822c03f974342e8d6d601f478e697c77') in 0.030391 seconds
+  Import took 0.039373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Fonts/TakeoverShadow SDF.asset
+  artifactKey: Guid(2da869c3bc654334cb41131f15fdf810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/TakeoverShadow SDF.asset using Guid(2da869c3bc654334cb41131f15fdf810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfebe39c543a3608094e2f9e534a48e') in 0.035743 seconds
+  Import took 0.040018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.798288 seconds.
+  path: Assets/Scripts/Managers/GameManager.cs
+  artifactKey: Guid(3a8eacad76cd0e64da7240d0f9d4a103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Managers/GameManager.cs using Guid(3a8eacad76cd0e64da7240d0f9d4a103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4c0d0acdf32dfca36d1160ba23e584') in 0.015047 seconds
+  Import took 0.020628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008472 seconds.
+  path: Assets/Scripts/Managers/GameManager.cs
+  artifactKey: Guid(3a8eacad76cd0e64da7240d0f9d4a103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Managers/GameManager.cs using Guid(3a8eacad76cd0e64da7240d0f9d4a103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4c0d0acdf32dfca36d1160ba23e584') in 0.002323 seconds
+  Import took 0.005272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.900235 seconds.
+  path: Assets/Scripts/Managers/GameManager.cs
+  artifactKey: Guid(3a8eacad76cd0e64da7240d0f9d4a103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Managers/GameManager.cs using Guid(3a8eacad76cd0e64da7240d0f9d4a103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ef19f79462e87600de9ce200b24c86') in 0.005632 seconds
+  Import took 0.010304 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003228 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.191 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2112.
+Total: 3.082900 ms (FindLiveObjects: 0.296600 ms CreateObjectMapping: 0.042200 ms MarkObjects: 2.656900 ms  DeleteObjects: 0.084800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002215 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.914 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2115.
+Total: 2.318900 ms (FindLiveObjects: 0.338700 ms CreateObjectMapping: 0.053900 ms MarkObjects: 1.855900 ms  DeleteObjects: 0.068600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.048589 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.604 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2118.
+Total: 4.234200 ms (FindLiveObjects: 0.766200 ms CreateObjectMapping: 0.169200 ms MarkObjects: 3.200300 ms  DeleteObjects: 0.091800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001154 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2121.
+Total: 2.052400 ms (FindLiveObjects: 0.234400 ms CreateObjectMapping: 0.048600 ms MarkObjects: 1.694400 ms  DeleteObjects: 0.073400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001366 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.874 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2124.
+Total: 2.247900 ms (FindLiveObjects: 0.286300 ms CreateObjectMapping: 0.053000 ms MarkObjects: 1.833400 ms  DeleteObjects: 0.073600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001710 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.930 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2127.
+Total: 2.116400 ms (FindLiveObjects: 0.244500 ms CreateObjectMapping: 0.046400 ms MarkObjects: 1.748000 ms  DeleteObjects: 0.075700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.961 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2130.
+Total: 2.247200 ms (FindLiveObjects: 0.244700 ms CreateObjectMapping: 0.039500 ms MarkObjects: 1.891700 ms  DeleteObjects: 0.070100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002250 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2133.
+Total: 2.017200 ms (FindLiveObjects: 0.232200 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.676000 ms  DeleteObjects: 0.071800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001375 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2136.
+Total: 2.765800 ms (FindLiveObjects: 0.279200 ms CreateObjectMapping: 0.040700 ms MarkObjects: 2.372400 ms  DeleteObjects: 0.072100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001889 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1496 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2139.
+Total: 1.999500 ms (FindLiveObjects: 0.264300 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.618600 ms  DeleteObjects: 0.079200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3605.188526 seconds.
+  path: Assets/Scripts/Enemy/WaterTrigger.cs
+  artifactKey: Guid(57d1c98258dd87f49a868e5d5aac0414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemy/WaterTrigger.cs using Guid(57d1c98258dd87f49a868e5d5aac0414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd616d8ac0c7c7ac09897ffcf4f2903c5') in 0.042864 seconds
+  Import took 0.048034 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.018 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1497 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2143.
+Total: 2.110400 ms (FindLiveObjects: 0.210900 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.771500 ms  DeleteObjects: 0.091100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001193 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1497 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2146.
+Total: 2.292400 ms (FindLiveObjects: 0.279900 ms CreateObjectMapping: 0.049100 ms MarkObjects: 1.884200 ms  DeleteObjects: 0.077600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001810 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.883 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1497 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.1 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2149.
+Total: 4.550900 ms (FindLiveObjects: 0.588300 ms CreateObjectMapping: 0.102100 ms MarkObjects: 3.686400 ms  DeleteObjects: 0.170200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 625.037740 seconds.
+  path: Assets/Hibby Games/aarons_assets/toye_car_v01/custom_materials/body_paint_mat_01.mat
+  artifactKey: Guid(c991d70400a9d234cb3f0115a0c7d2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/toye_car_v01/custom_materials/body_paint_mat_01.mat using Guid(c991d70400a9d234cb3f0115a0c7d2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1543517fb32902ea04b3e11618b14fb0') in 2.410974 seconds
+  Import took 2.415331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Hibby Games/aarons_assets/toye_car_v01/custom_materials/body_paint_mat_02.mat
+  artifactKey: Guid(fb4cb46d3663dc349a796305168dee72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/toye_car_v01/custom_materials/body_paint_mat_02.mat using Guid(fb4cb46d3663dc349a796305168dee72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69dcc972adade1401c8ea8ca5553d508') in 0.041509 seconds
+  Import took 0.067224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Hibby Games/aarons_assets/toye_car_v01/mesh_fbx/Materials/body_paint_mat_02.mat
+  artifactKey: Guid(63f9d1073f8d1d948872bc72d891d9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/toye_car_v01/mesh_fbx/Materials/body_paint_mat_02.mat using Guid(63f9d1073f8d1d948872bc72d891d9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56fd4891ec058cd2135e5f8334ff7be') in 0.057675 seconds
+  Import took 0.061193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Hibby Games/aarons_assets/toye_car_v01/custom_materials/car_seat_mat_02.mat
+  artifactKey: Guid(633cd5e01bafa714f8c8a1e4e4c93f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/toye_car_v01/custom_materials/car_seat_mat_02.mat using Guid(633cd5e01bafa714f8c8a1e4e4c93f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15821a232450586e9a01d0cc0669c2fc') in 0.063624 seconds
+  Import took 0.067563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Hibby Games/aarons_assets/toye_car_v01/custom_materials/car_seat_mat_01.mat
+  artifactKey: Guid(8f4d9324f2287d9428515501c46b7f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/toye_car_v01/custom_materials/car_seat_mat_01.mat using Guid(8f4d9324f2287d9428515501c46b7f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5f9606bdda43a00ab1a5f22d5e2751') in 0.034788 seconds
+  Import took 0.037757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Hibby Games/aarons_assets/char_enemy_robot01/mesh_fbx/Materials/char_enemy_robot01.mat
+  artifactKey: Guid(0ec6a9ce78d6c134d9e9bd51d9fa78e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/char_enemy_robot01/mesh_fbx/Materials/char_enemy_robot01.mat using Guid(0ec6a9ce78d6c134d9e9bd51d9fa78e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76631e234bbc00f97d8d12908e6e8ff3') in 0.040619 seconds
+  Import took 0.043690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Hibby Games/aarons_assets/toye_car_v01/mesh_fbx/Materials/car_seat_mat_01.mat
+  artifactKey: Guid(83ab4430e3b768e47bddc4e5f866c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/toye_car_v01/mesh_fbx/Materials/car_seat_mat_01.mat using Guid(83ab4430e3b768e47bddc4e5f866c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd13975cc7dacc1533ce4b5d059972af') in 0.172223 seconds
+  Import took 0.179445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/Hibby Games/aarons_assets/toye_car_v01/mesh_fbx/Materials/body_paint_mat_01.mat
+  artifactKey: Guid(68e88beac4dcbb740a49bf6161220c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/toye_car_v01/mesh_fbx/Materials/body_paint_mat_01.mat using Guid(68e88beac4dcbb740a49bf6161220c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '722e13858abb6f636b788dd094edfa20') in 0.032434 seconds
+  Import took 0.036056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Hibby Games/aarons_assets/char_enemy_robot01/textures/char_enemy_robot01.psd
+  artifactKey: Guid(857079c0896f73844a0f16acdde013f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/char_enemy_robot01/textures/char_enemy_robot01.psd using Guid(857079c0896f73844a0f16acdde013f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850407e52b2c549a937245dd5931275f') in 0.066834 seconds
+  Import took 0.071272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Hibby Games/aarons_assets/toye_car_v01/mesh_fbx/Materials/car_seat_mat_02.mat
+  artifactKey: Guid(8d8088c7af75dfa44a1ba10c9c943b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hibby Games/aarons_assets/toye_car_v01/mesh_fbx/Materials/car_seat_mat_02.mat using Guid(8d8088c7af75dfa44a1ba10c9c943b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d30ce06ea7c3afa3bba724a2170a38a') in 0.031047 seconds
+  Import took 0.034101 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.367 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1497 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.2 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2153.
+Total: 1.957700 ms (FindLiveObjects: 0.259200 ms CreateObjectMapping: 0.051600 ms MarkObjects: 1.560400 ms  DeleteObjects: 0.084900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001140 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.877 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1497 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.2 MB.
+System memory in use after: 78.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2156.
+Total: 4.296600 ms (FindLiveObjects: 0.621000 ms CreateObjectMapping: 0.064700 ms MarkObjects: 3.447500 ms  DeleteObjects: 0.160500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 659.159199 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-01.wav
+  artifactKey: Guid(32d4b1811dda14a6cb9e059ee8ad17d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-01.wav using Guid(32d4b1811dda14a6cb9e059ee8ad17d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88253aae15518c0b75a23f537cc2ea88') in 0.281762 seconds
+  Import took 0.285364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-16.wav
+  artifactKey: Guid(724131bc8a7f34041bb9f1701f0cb58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-16.wav using Guid(724131bc8a7f34041bb9f1701f0cb58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce5338d94d5962cf252f8f793f22682') in 0.021536 seconds
+  Import took 0.024613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-10.wav
+  artifactKey: Guid(cabfae866cab347928b74b7d0ca6bfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-10.wav using Guid(cabfae866cab347928b74b7d0ca6bfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f13541c9383f9a69b4b77671c69a00') in 0.041176 seconds
+  Import took 0.044611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-15.wav
+  artifactKey: Guid(0c008ee3ee72a4362a35be25fa5de043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-15.wav using Guid(0c008ee3ee72a4362a35be25fa5de043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817ba3712ef5adf97c08d4ebc4fded0e') in 0.051614 seconds
+  Import took 0.055915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-07.wav
+  artifactKey: Guid(2c5292ba5cf254919a6b9e2b18e04f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-07.wav using Guid(2c5292ba5cf254919a6b9e2b18e04f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20c9fb4e353c8dbc98783e9083a0cd2') in 0.025083 seconds
+  Import took 0.028762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-04.wav
+  artifactKey: Guid(c5e2a73ad4706440f93bf05df0b465fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-04.wav using Guid(c5e2a73ad4706440f93bf05df0b465fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afbbac11601ad644d733f12c64480c24') in 0.017627 seconds
+  Import took 0.023224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000718 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-05.wav
+  artifactKey: Guid(b99da9a57308d4ba1bee1cf1d9038376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-05.wav using Guid(b99da9a57308d4ba1bee1cf1d9038376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ed6a52bf9e49e8b86034b00ff439f8e') in 0.018835 seconds
+  Import took 0.024294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-14.wav
+  artifactKey: Guid(b6428d4edb06344ba829da4edd9967c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-14.wav using Guid(b6428d4edb06344ba829da4edd9967c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560083deb1208442d6da236f412e01ca') in 0.039211 seconds
+  Import took 0.043428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-03.wav
+  artifactKey: Guid(19f89c6e740e7447f9e12a8310d3e973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-03.wav using Guid(19f89c6e740e7447f9e12a8310d3e973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1108c36c592abc7fec54ba5c1a26d1c5') in 0.019412 seconds
+  Import took 0.032361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-06.wav
+  artifactKey: Guid(a235d590ef2a04d1b85b61ef4c21337c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-06.wav using Guid(a235d590ef2a04d1b85b61ef4c21337c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2012c8f9075cd66e3d7da34e148522') in 0.017973 seconds
+  Import took 0.022227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-12.wav
+  artifactKey: Guid(7478151cf36724a7dada558f746c3633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-12.wav using Guid(7478151cf36724a7dada558f746c3633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e6a42b5d06d0cd9506f7357c976de5') in 0.044702 seconds
+  Import took 0.050835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-11.wav
+  artifactKey: Guid(a0010a1a0c474473b81729eb770c485f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-11.wav using Guid(a0010a1a0c474473b81729eb770c485f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32f73186e489bb06735a794ab9ea2c9b') in 0.013530 seconds
+  Import took 0.017916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-08.wav
+  artifactKey: Guid(4e1ff8faed12a475eba9be0e46072269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-08.wav using Guid(4e1ff8faed12a475eba9be0e46072269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e352dc3c52feeb1a3130d255ebf5f4e') in 0.019180 seconds
+  Import took 0.024395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-09.wav
+  artifactKey: Guid(ff5f85da24bc943d1abdc5760a22bc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-09.wav using Guid(ff5f85da24bc943d1abdc5760a22bc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b900744dc17903d9e357811374b204f') in 0.027698 seconds
+  Import took 0.032072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-13.wav
+  artifactKey: Guid(72127805eb2bc4e7fbf2e02eca266cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-13.wav using Guid(72127805eb2bc4e7fbf2e02eca266cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35c3f7d2c13575b5584139afdafa9db8') in 0.029074 seconds
+  Import took 0.033237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-02.wav
+  artifactKey: Guid(dc6614beca09347ec9b258f12d154bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-02.wav using Guid(dc6614beca09347ec9b258f12d154bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452cdb2afe24af24cfd99e59fa15c25c') in 0.018083 seconds
+  Import took 0.021199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/CasualGameSounds/DM-CGS-13.wav
+  artifactKey: Guid(72127805eb2bc4e7fbf2e02eca266cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CasualGameSounds/DM-CGS-13.wav using Guid(72127805eb2bc4e7fbf2e02eca266cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35c3f7d2c13575b5584139afdafa9db8') in 0.011464 seconds
+  Import took 0.016092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.972764 seconds.
+  path: Assets/Scripts/Managers/AudioManager.cs
+  artifactKey: Guid(971da84a8aaf3ff41838cf9bf4064e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Managers/AudioManager.cs using Guid(971da84a8aaf3ff41838cf9bf4064e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf28e02e15f93941139cd9e50f39c52') in 0.008799 seconds
+  Import took 0.012847 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.945 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1498 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.2 MB.
+System memory in use after: 78.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2163.
+Total: 2.797400 ms (FindLiveObjects: 0.344700 ms CreateObjectMapping: 0.077000 ms MarkObjects: 2.284700 ms  DeleteObjects: 0.089400 ms)
+

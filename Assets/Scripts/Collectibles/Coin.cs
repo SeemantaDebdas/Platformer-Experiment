@@ -15,6 +15,7 @@ public class Coin : MonoBehaviour
         //later implement object pooling
         if (other.CompareTag("Player"))
         {
+            HUDManager.Instance.UpdateCoinText();
             GameManager.Instance.IncreaseCollectedCoins();
             Destroy(this.gameObject);
         }

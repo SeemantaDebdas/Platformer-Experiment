@@ -57,4 +57,6 @@ public class GameManager : MonoBehaviour
     {
         collectedCoins = totalCoins;
     }
+
+    public void QuitApplication() => Application.Quit();
 }
