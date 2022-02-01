@@ -22,6 +22,7 @@ public class Movement : MonoBehaviour
     int IsJumpParameter = Animator.StringToHash("IsJump");
     Vector3 direction;
     bool jumpPressed;
+    bool hasWon;
 
     // Start is called before the first frame update
     void Awake()
@@ -30,9 +31,16 @@ public class Movement : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
+    private void Start()
+    {
+        GameManager.Instance.GameWonEvent.AddListener(WinAnimationTrigger);
+    }
+
     // Update is called once per frame
     void Update()
     {
+        if (hasWon) return;
+
         ProcessInput();
         ProcessMovementHorizontal();
         ProcessRotation();
@@ -94,5 +102,11 @@ public class Movement : MonoBehaviour
             anim.SetFloat(HorizontalFloatParameter, 0);
 
         anim.SetBool(IsJumpParameter, !IsGrounded());
+    }
+
+    void WinAnimationTrigger()
+    {
+        anim.SetTrigger("WinBool");
+        hasWon = true;
     }
 }

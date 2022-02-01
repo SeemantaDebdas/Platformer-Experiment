@@ -4986,6 +4986,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a8eacad76cd0e64da7240d0f9d4a103, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  GameWonEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!4 &943087839
 Transform:
   m_ObjectHideFlags: 0
@@ -5467,8 +5470,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284835173
-  m_fontColor: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 1}
+    rgba: 6645093
+  m_fontColor: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 0}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -9904,6 +9907,7 @@ GameObject:
   - component: {fileID: 1636073044}
   - component: {fileID: 1636073043}
   - component: {fileID: 1636073042}
+  - component: {fileID: 1636073046}
   m_Layer: 5
   m_Name: Game Won Screen
   m_TagString: Untagged
@@ -9994,6 +9998,25 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!95 &1636073046
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636073041}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5f610dd610ac21a4bb3753fb667813e3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1637907765 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4259080689594872, guid: 6c919ec1c1e88a94c95afc28b198b9f8, type: 3}
@@ -12024,8 +12047,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 0
+  m_fontColor: {r: 0, g: 0, b: 0, a: 0}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -12776,7 +12799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -13908,7 +13931,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2022316206}
-  m_LocalRotation: {x: 0.056376915, y: 0.058840085, z: -0.0033283103, w: 0.9966687}
+  m_LocalRotation: {x: 0.056376927, y: 0.058840092, z: -0.0033283108, w: 0.9966687}
   m_LocalPosition: {x: 10.095632, y: 24.557589, z: -24.467373}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
