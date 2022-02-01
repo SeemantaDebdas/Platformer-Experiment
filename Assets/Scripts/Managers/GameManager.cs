@@ -45,19 +45,11 @@ public class GameManager : MonoBehaviour
             HUDManager.Instance.ActivateWinScreen();
             AudioManager.Instance.PlayGameWonClip();
         }
-
-        if (Input.GetKeyDown(KeyCode.P))
-            Cheat();
     }
 
     public void ReloadGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-    }
-    
-    void Cheat()
-    {
-        collectedCoins = totalCoins;
     }
 
     public void QuitApplication() => Application.Quit();
