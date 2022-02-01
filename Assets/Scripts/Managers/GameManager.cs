@@ -27,7 +27,8 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        totalCoins = GameObject.FindGameObjectsWithTag("Coin").Length;
+        // +1 for the coin that gets popped out from the chest
+        totalCoins = GameObject.FindGameObjectsWithTag("Coin").Length + 1;
     }
 
     private void Update()

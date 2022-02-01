@@ -6,10 +6,15 @@ public class Enemy : MonoBehaviour
 {
     [SerializeField] bool canFly;
     [SerializeField] PathConfigSO path;
+    [Header("Projectile")]
+    [SerializeField] Transform spawnPoint;
     [SerializeField] GameObject projectile;
     [SerializeField] Vector3 projectileDirection;
     [SerializeField] float projectileSpeed;
     [SerializeField] float fireRate;
+    [Header("Propeller")]
+    [SerializeField] Transform properller;
+    [SerializeField] float propellerRotationSpeed = 10f;
 
     List<Transform> waypoints;
     int waypointIdx = 0;
@@ -19,6 +24,7 @@ public class Enemy : MonoBehaviour
     private void Start()
     {
         SetWayPoints();
+        if (canFly) spawnPoint = transform;
     }
 
     void SetWayPoints()
@@ -43,6 +49,7 @@ public class Enemy : MonoBehaviour
 
     private void ProcessMovement()
     {
+        properller.Rotate(0, propellerRotationSpeed * Time.deltaTime, 0);
         if (transform.position == waypoints[waypointIdx].position)
         {
             //waypointIdx = (waypointIdx == waypoints.Count - 1) ? 0 : waypointIdx + 1;
@@ -66,7 +73,8 @@ public class Enemy : MonoBehaviour
 
     void Shoot()
     {
-        GameObject projectilePrefabSpawn = Instantiate(projectile, transform.position,Quaternion.identity);
+        Quaternion spawnRotation = (canFly) ? Quaternion.identity : Quaternion.Euler(0,0,90);
+        GameObject projectilePrefabSpawn = Instantiate(projectile, spawnPoint.position,spawnRotation);
         projectilePrefabSpawn.GetComponent<Projectile>().ProjectileDirection = projectileDirection;
         projectilePrefabSpawn.GetComponent<Projectile>().ProjectionSpeed = projectileSpeed;
     }
